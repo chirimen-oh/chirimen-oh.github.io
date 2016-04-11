@@ -55,7 +55,23 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
   <!-- Google Tracking Id End -->
 
+
+
   {% endif %}
+
+  <!-- Hotjar Tracking Code for https://chirimen-org.github.io/ -->
+  <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:188067,hjsv:5};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+    <!-- Hotjar Tracking Id End -->
+
 {% endif %}
 
 {% if site.disqus-shortname and jekyll.environment == "production" %}
