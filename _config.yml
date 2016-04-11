@@ -1,21 +1,187 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
-# Build settings
-markdown: kramdown
+# NB! Set your site's url, otherwise stuff will break :)
+
+url: "https://panossakkos.github.io"
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (https://yourusername.github.io/repository-name)
+# and NOT your user repository (https://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+#
+# NB! Without this *nothing* will work, because it's used in every path :)
+
+baseurl: /personal-jekyll-theme
+
+# Google tracking id to track your visitors
+
+google-tracking-id: "UA-75123287-2"
+
+# Forces https everywhere in your website, except when you serve it locally
+# If you are not hosted on Github Pages, and your host doesn't support https
+# then you should disable it
+
+force-https: True
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "CHIRIMEN Open Hardware"
+title: "CHIRIMEN Open Hardware"
+description: "CHIRIMEN Open Hardware is a community-driven, is an open hardware project."
+keywords: "chirimen, iot, wot, javascript"
+favicon: "/img/favicon.ico"
+
+################
+# Header layout #
+################
+
+black-favicon: "/img/favicon.ico"
+
+background-img: "../img/chirimen_2.gif"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Welcome to Open Hard ware to the world !"
+  - text: "What do you want to achieve the world with crepe?"
+
+me-img: "/img/browser_300.png"
+
+##############################
+# Color the browser elements #
+##############################
+color-browser: "#000000"
+apple-status-bar-style: "black"
+
+################
+# Web app mode #
+################
+
+web-app-mode: True
+
+# Icons for Web App mode
+
+icon-36p: "/img/web/android-icon-36x36.png"
+icon-48p: "/img/web/android-icon-48x48.png"
+icon-72p: "/img/web/android-icon-72x72.png"
+icon-96p: "/img/web/android-icon-96x96.png"
+icon-144p: "/img/web/android-icon-144x144.png"
+icon-192p: "/img/web/android-icon-192x192.png"
+
+########
+# Blog #
+########
+
+post-preview-words: 96
+
+paginate: 5
+
+email-share: True
+fb-share: True
+twitter-share: True
+linkedin-share: True
+reddit-share: True
+google-plus-share: True
+tumblr-share: True
+pinterest-share: True
+pocket-share: True
+vkontakte-share: True
+
+disqus-shortname: "panossakkos"
+
+syntax-highlight: True
+
+############
+# Timeline #
+############
+
+events:
+  - image: "/img/browser_300.png"
+    date: "September 2016 - Today"
+    description: "Saving the neighborhood!"
+  - image: "/img/browser_300.png"
+    date: "April 28 2016"
+    description: "CHIRIMEN's day"
+
+# First image of the Timeline
+
+timeline-img: "/img/browser_300.png"
+
+###########
+# Contact #
+###########
+
+email: "your@email.here"
+
+################
+# Author Blurb #
+################
+
+# The author blurb goes underneath blog posts.
+# This works best when your author blurb image has a transparent background, or matches your site background color.
+
+# if the author_blurb is not set, then this feature is skipped
+author_blurb: "CHIRIMEN COMING SOON"
+author_blurb_image: "/img/browser_300.png"
+
+##################
+# Social Buttons #
+##################
+
+social:
+  - title: "facebook"
+    url: "https://www.facebook.com/groups/mozopenhard/"
+  - title: "twitter"
+    url: "https://twitter.com/mozopenhard"
+  - title: "github"
+    url: "https://github.com/MozOpenHard"
+  - title: "rss"
+    url: "/feed.xml"
+
+############
+# 404 page #
+############
+
+404-img: "/img/browser_300.png"
+
+################################################################################
+
+# NB! Tread carefully if you want to change the variables below this point!
+
+# Sections shown in the index page
+
+pages_list:
+  About: 'about'
+  Blog: 'latest-post'
+  Timeline: 'timeline'
+  Contact: 'contact'
+
+# Exclusion list from the generated _site
+
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+
+# Pagination path
+
+paginate_path: "blog/page:num/"
+
+# Enable minification SASS
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-paginate
+  - jemoji
