@@ -124,7 +124,7 @@ timeline-img: "/img/browser_300.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "chirimen.open.hardware@gmail.com"
 
 ################
 # Author Blurb #
@@ -145,9 +145,9 @@ social:
   - title: "facebook"
     url: "https://www.facebook.com/groups/mozopenhard/"
   - title: "twitter"
-    url: "https://twitter.com/mozopenhard"
+    url: "https://twitter.com/chirimen_oh"
   - title: "github"
-    url: "https://github.com/MozOpenHard"
+    url: "https://github.com/chirimen-org"
   - title: "rss"
     url: "/feed.xml"
 
