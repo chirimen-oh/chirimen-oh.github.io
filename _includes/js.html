@@ -128,13 +128,12 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
   <!-- Dynamic Typing Start -->
 
-  <script type="text/javascript" src="{{site.baseurl}}/js/typed.min.js"></script>
+  <script type="text/javascript" src="{{ "/js/typed.min.js" | prepend: site.baseurl_root }}"></script>
   <script type="text/javascript">
 
   var myQuotes =  new Array();
-  {% for line in site.lines %}
-    myQuotes.push("{{ line.text }}");
-  {% endfor %}
+  myQuotes.push("{% translate lines.text1 %}");
+  myQuotes.push("{% translate lines.text2 %}");
 
   function shuffle(array) {
     var currentIndex = array.length, temporaryValue, randomIndex ;

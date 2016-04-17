@@ -104,6 +104,13 @@ a {
             outline: none;
         }
     }
+
+    .navbar-change-lang {
+        font-weight: 700;
+        &:focus {
+            outline: none;
+        }
+    }
     a {
         color: $navbar-color;
         @if $header-text-shadow{

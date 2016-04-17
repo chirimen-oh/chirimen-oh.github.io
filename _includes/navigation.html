@@ -14,14 +14,29 @@
       {% endif %}
           <div>
             {% if site.black-favicon %}
-              <img src="{{site.baseurl}}{{ site.black-favicon }}" alt="">
+              <img src="{{ site.black-favicon | prepend: site.baseurl_root }}" alt="">
             {% endif %}
             {{ site.title }}
           </div>
         </a>
     </div>
+
+
+
+
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+      <ul class="nav navbar-nav">
+        <li>
+          {% if site.lang == "ja" %}
+          <a href="{{site.url}}"> English
+
+          </a>
+          {% else if site.lang == "en" %}
+          <a href="{{site.url}}/ja/"> 日本語 </a>
+          {% endif %}
+        </li>
+      </ul>
       <ul class="nav navbar-nav">
         {% if page.section-type == "index" %}
 

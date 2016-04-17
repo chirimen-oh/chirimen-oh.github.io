@@ -4,6 +4,9 @@
 # NB! Set your site's url, otherwise stuff will break :)
 
 url: "https://chirimen-org.github.io"
+# develop
+#url: "http://localhost:4000"
+
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -54,9 +57,9 @@ loop-count: False # Set False for infinite loop, or set any number for finite lo
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "Welcome to Open Hard ware to the world !"
-  - text: "What do you want to achieve the world with CHIRIMEN?"
+#lines: # You can add HTML Tags in the Text
+#  - text: "Welcome to Open Hard ware to the world !"
+#  - text: "What do you want to achieve the world with CHIRIMEN?"
 
 me-img: "/img/browser_300.png"
 
@@ -113,7 +116,7 @@ events:
     date: "September 2016 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/browser_300.png"
-    date: "April 28 2016"
+    date: "April 30 2016"
     description: "CHIRIMEN's day"
 
 # First image of the Timeline
@@ -164,8 +167,9 @@ social:
 # Sections shown in the index page
 
 pages_list:
+  Link: 'link'
   About: 'about'
-  Blog: 'latest-post'
+#  Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
@@ -181,6 +185,10 @@ paginate_path: "blog/page:num/"
 
 sass:
   style: compressed
+
+# config i18n
+languages: ["en", "ja"]
+exclude_from_localizations: ["js", "img", "css"]
 
 gems:
   - jekyll-paginate

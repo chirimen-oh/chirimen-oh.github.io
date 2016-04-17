@@ -12,20 +12,23 @@
   <link rel="canonical" href="{{page.url | replace:'index.html','' | prepend: site.baseurl}}">
   <title>{{site.title}}{% if page.title %} | {{page.title}}{% endif %}</title>
 
+  <!-- meta description -->
+  <meta name="description" content="{% t head.meta.description1 %}">
+
   <!-- Bootstrap Core CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
   <!-- Custom CSS -->
-  <link href="{{site.baseurl}}/css/grayscale.css" rel="stylesheet">
+  <link href="{{ "/css/grayscale.css" | prepend: site.baseurl_root }}" rel="stylesheet">
   {% if page.section-type == "index" %}
-  <link href="{{site.baseurl}}/css/timeline.css" rel="stylesheet">
+  <link href="{{ "/css/timeline.css" | prepend: site.baseurl_root }}" rel="stylesheet">
   {% endif %}
 
   <!-- Custom Fonts -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
   <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="{{site.baseurl}}/css/rrssb.css" />
+  <link rel="stylesheet" href="{{ "/css/rrssb.css" | prepend: site.baseurl_root }}" />
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -33,11 +36,11 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
   {% if site.favicon %}
-    <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}{{site.favicon}}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | prepend: site.baseurl_root }}">
   {% endif %}
 
   {% if page.url == "/404.html" | prepend: {{site.baseurl}} %}
-    <meta http-equiv="refresh" content="20; url={{site.baseurl}}/">
+    <meta http-equiv="refresh" content="20; url={{site.baseurl_root}}/">
   {% endif %}
 
   {% include web-app.html %}
