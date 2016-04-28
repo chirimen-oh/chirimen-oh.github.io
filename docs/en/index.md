@@ -16,3 +16,5 @@ From here, you can refer to various documents download softwares about CHIRIMEN.
 ## Download CHIRIMEN release
 
 ## Repository
+
+## [Peripherals for CHIRIMEN Board computer](peripherals.html)
