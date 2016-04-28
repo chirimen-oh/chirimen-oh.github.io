@@ -11,6 +11,7 @@ title: CMN2015-1 spec
 - 1 MicroSD slot
 - Video micro HDMI female
 - Dimension 80 mm x 48 mm
+- Power 5V 1A via dedicated power connector 
 - USB microUSB x 1 (OTG) , USB x 1 , microUSB x 1 (UART debug)
 - WiFI (not on board. Use RTL8188CUS compatible USB WiFi adaptor )
 - GPIO >1(configurable)
