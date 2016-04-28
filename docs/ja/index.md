@@ -16,3 +16,5 @@ title: Index Page
 ## CHIRIMENリリースダウンロード
 
 ## リポジトリ
+
+## [CHIRIMENボードコンピュータに接続可能な周辺機器情報](peripherals.html)
