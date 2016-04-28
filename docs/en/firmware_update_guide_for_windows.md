@@ -1,6 +1,6 @@
 ---
 layout: doc_toc_en
-title: Index Page
+title: firmware update guide for windows
 ---
 # Firmware Update Guide for Windows
 

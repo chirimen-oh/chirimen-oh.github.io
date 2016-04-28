@@ -1,6 +1,6 @@
 ---
 layout: doc_en
-title: Index Page
+title: License Index Page
 noToc: true
 ---
 # CHIRIME License
