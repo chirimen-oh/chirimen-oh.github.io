@@ -1,6 +1,7 @@
 ---
 layout: doc_en
 title: Index Page
+noToc: true
 ---
 # Quick start guide
 This page is a root of a number of quick-start guides about CMN2015-1 compatible CHIRIMEN board computers.  The following quick-start guides are prepared. Besides, the ones without a link is under creation now.

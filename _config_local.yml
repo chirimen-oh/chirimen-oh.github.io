@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://chirimen-org.github.io"
+#url: "https://chirimen-org.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,17 +12,17 @@ url: "https://chirimen-org.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: .
+#baseurl: .
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-75123287-2"
+#google-tracking-id: "UA-75123287-2"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+#force-https: True
 
 #############
 # HTML Head #
@@ -74,12 +74,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web/android-icon-36x36.png"
-icon-48p: "/img/web/android-icon-48x48.png"
-icon-72p: "/img/web/android-icon-72x72.png"
-icon-96p: "/img/web/android-icon-96x96.png"
-icon-144p: "/img/web/android-icon-144x144.png"
-icon-192p: "/img/web/android-icon-192x192.png"
+#icon-36p: "/img/web/android-icon-36x36.png"
+#icon-48p: "/img/web/android-icon-48x48.png"
+#icon-72p: "/img/web/android-icon-72x72.png"
+#icon-96p: "/img/web/android-icon-96x96.png"
+#icon-144p: "/img/web/android-icon-144x144.png"
+#icon-192p: "/img/web/android-icon-192x192.png"
 
 ########
 # Blog #
