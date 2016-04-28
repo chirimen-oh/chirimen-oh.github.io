@@ -1,5 +1,5 @@
 ---
-layout: ja
+layout: doc_ja
 title: Index Page
 ---
 # Firmware Update Guide for Windows
