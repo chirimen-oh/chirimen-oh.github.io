@@ -1,5 +1,5 @@
 ---
-layout: en
+layout: doc_en
 title: Index Page
 ---
 # Startup section
