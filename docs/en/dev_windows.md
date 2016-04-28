@@ -1,5 +1,5 @@
 ---
-layout: doc_en
+layout: doc_toc_en
 title: Index Page
 ---
 # Development-environment preparation section windows version

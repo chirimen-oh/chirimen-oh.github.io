@@ -1,5 +1,5 @@
 ---
-layout: doc_ja
+layout: doc_toc_ja
 title: Index Page
 ---
 # 開発環境準備編 windows版

@@ -1,5 +1,5 @@
 ---
-layout: doc_ja
+layout: doc_toc_ja
 title: Index Page
 ---
 # ボードコンピュータ　コネクタ配置
