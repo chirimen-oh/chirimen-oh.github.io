@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ page.title }}</title>
+
+<link href="{{site.baseurl}}/css/base.css" rel="stylesheet">
+<link href="{{site.baseurl}}/css/toc.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="{{site.baseurl}}/js/jquery.toc.js"></script>
+<script type="text/javascript">
+$(function() {
+  $('#main_content').toc({
+    minItemsToShowToc:0
+  });
+});
+</script>
+
+</head>
+<body id="main_content">
+<a href="{{site.baseurl}}/">[TOP PAGE]</a>
+{{ content }}
+</body>
+</html>
