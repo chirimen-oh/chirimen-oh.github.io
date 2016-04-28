@@ -1,6 +1,6 @@
 ---
 layout: doc_en
-title: Index Page
+title: CMN2015-1 spec
 ---
 # CMN2015-1 Hardware Specifications
 - SoC RK3066

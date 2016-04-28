@@ -1,6 +1,6 @@
 ---
 layout: doc_ja
-title: Index Page
+title: quick Start
 noToc: true
 ---
 # クイックスタートガイド

@@ -1,6 +1,6 @@
 ---
 layout: doc_en
-title: Index Page
+title: quick Start
 noToc: true
 ---
 # Quick start guide

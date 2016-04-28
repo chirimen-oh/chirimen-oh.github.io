@@ -1,6 +1,6 @@
 ---
 layout: doc_toc_ja
-title: Index Page
+title: FAQ
 ---
 # CHIRIMEN FAQ
  

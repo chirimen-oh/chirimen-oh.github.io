@@ -1,6 +1,6 @@
 ---
 layout: doc_toc_en
-title: Index Page
+title: basic startup
 ---
 # Startup section
 

@@ -1,6 +1,6 @@
 ---
 layout: doc_toc_ja
-title: Index Page
+title: board connectors
 ---
 # ボードコンピュータ　コネクタ配置
 CHIRIMENボードコンピュータのコネクターおよびスイッチの配置を紹介します。

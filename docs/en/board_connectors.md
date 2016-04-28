@@ -1,6 +1,6 @@
 ---
 layout: doc_toc_en
-title: Index Page
+title: board connectors
 ---
 # Layout of the connectors
 This section introduces the layout of connectors and  switch of a CHIRIMEN board computer. 
