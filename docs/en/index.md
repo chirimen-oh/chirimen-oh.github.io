@@ -13,8 +13,8 @@ From here, you can refer to various documents download softwares about CHIRIMEN.
 
 ## [FAQ](FAQ.html)
 
-## Download CHIRIMEN release
+## [Download CHIRIMEN release](http://github.com/chirimen-org/release)
 
-## Repository
+## [Repository](http://github.com/chirimen-org)
 
 ## [Peripherals for CHIRIMEN Board computer](peripherals.html)
