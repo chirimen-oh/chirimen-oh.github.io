@@ -13,8 +13,8 @@ title: Index Page
 
 ## [FAQ](FAQ.html)
 
-## CHIRIMENリリースダウンロード
+## [CHIRIMENリリースダウンロード](https://github.com/chirimen-org/release)
 
-## リポジトリ
+## [リポジトリ](http://github.com/chirimen-org)
 
 ## [CHIRIMENボードコンピュータに接続可能な周辺機器情報](peripherals.html)
