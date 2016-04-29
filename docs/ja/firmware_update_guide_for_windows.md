@@ -19,16 +19,16 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 
 ## ホストPCに必要なソフトウェア
 - CHIRIMEN用USBドライバ
-  - [DriverAssistant_v4.1.1.zip](https://github.com/MozOpenHard/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip) を使ってインストールします。  
+  - [DriverAssistant_v4.1.1.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip) を使ってインストールします。  
 ADBと異なるファームウェアアップデート用のUSBドライバが必要です。
 - AndroidTool v2.33
-  - [AndroidTool_v2.33.zip](https://github.com/MozOpenHard/CHIRIMEN-tools/blob/master/AndroidTool_v2.33.zip) に入っています。
+  - [AndroidTool_v2.33.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/AndroidTool_v2.33.zip) に入っています。
 - CHIRIMENのファームウェアイメージ（この例では、update25_win.imgというファイル）
 
 ## ステップバイステップガイド
 以下、順を追ってインストール手順を説明します。
 
-- [DriverAssistant_v4.1.1.zip](https://github.com/MozOpenHard/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip) を使って、ドライバをインストールします。
+- [DriverAssistant_v4.1.1.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip) を使って、ドライバをインストールします。
 - USB Power Adapterを除く全てを構成図に従って接続します。  
 この時点ではまだCHIRIMENの電源は入れません。
 - Windowsのデバイスマネージャを開きます。
