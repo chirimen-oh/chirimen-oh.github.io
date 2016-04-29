@@ -19,10 +19,10 @@ This page explains an update procedure for the operating system of a CHIRIMEN bo
 
 ## Software which should be installed in host PC
 - USB driver for CHIRIMEN
-  - It should be installed using [DriverAssistant_v4.1.1.zip](https://github.com/MozOpenHard/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip).   
+  - It should be installed using [DriverAssistant_v4.1.1.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip).   
 The special USB driver only for A firmware update is required.
 - AndroidTool v2.33
-  - It is included in [AndroidTool_v2.33.zip](https://github.com/MozOpenHard/CHIRIMEN-tools/blob/master/AndroidTool_v2.33.zip).
+  - It is included in [AndroidTool_v2.33.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/AndroidTool_v2.33.zip).
 
 ### Of course, the following data is required on host PC.
 - The firmware image of CHIRIMEN (In this example of description, it assumes that it is a file called update25_win.img. )
@@ -30,7 +30,7 @@ The special USB driver only for A firmware update is required.
 ## Step by step guide
 Here, an installation procedure has been explained.
 
-- Install a driver using [DriverAssistant_v4.1.1.zip](https://github.com/MozOpenHard/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip).
+- Install a driver using [DriverAssistant_v4.1.1.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip).
 - Excluding USB Power Adapter, connect the components as per the connection diagram.  
 NOTE: Don't turn on CHIRIMEN yet at this time.
 - Open the device manager of Windows.
