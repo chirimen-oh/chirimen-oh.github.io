@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://chirimen-org.github.io"
+url: "https://chirimen-oh.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -147,7 +147,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/chirimen_oh"
   - title: "github"
-    url: "https://github.com/chirimen-org"
+    url: "https://github.com/chirimen-oh"
   - title: "rss"
     url: "/feed.xml"
 
