@@ -7,7 +7,7 @@ title: CMN2015-1 spec
   - ARM Cortex A9 1.6GHz dual core
   - Mari 400 GPU quad core
 - DDR3 1GB(RAM)
-- NAND Flash 1GB
+- NAND Flash 8GB
 - 1 MicroSD slot
 - Video micro HDMI female
 - Dimension 80 mm x 48 mm
