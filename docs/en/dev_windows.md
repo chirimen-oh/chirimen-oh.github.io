@@ -25,7 +25,7 @@ In addition to all the equipments used by startup section, the following is requ
   - Android SDK Tools (The manager for installing an ADB tools)
 - USB driver for CHIRIMEN
   - In Windows 10 Ver.1511, it is equipped beforehand.
-  - In earlier versions of Windows, it can be installed using DriverAssistant_v4.1.1.zip.
+  - In earlier versions of Windows, it can be installed using [DriverAssistant_v4.1.1.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip).
   
 ## Step by step guide
 Here, an installation procedure is explained.
@@ -38,7 +38,7 @@ Here, an installation procedure is explained.
   - CHIRIMEN is automatically recognized as USB Device. (Check by the device manager.)
 - Other Windows
   - In a device manager, "other device/CHIRIMEN" appears as a device in which the device driver is not installed.
-  - Download and unpack [DriverAssistant_v4.1.1.zip](https://github.com/MozOpenHard/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip).
+  - Download and unpack [DriverAssistant_v4.1.1.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip).
   - Choose CHIRIMEN as a device in which the device driver is not installed by a device manager and update a driver.
   - By choosing the folder (and the subfolders) ,mentioned above and installing a driver, it is recognized as Android Device /Android Composite ADB interface.
 
