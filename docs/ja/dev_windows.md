@@ -26,7 +26,7 @@ title: dev windows
   - Android SDK Tools (ADBツールをインストールするマネージャ)
 - CHIRIMEN用USBドライバ
   - Windows 10 Ver.1511では初めから備わっています
-  - それ以前のWindowsでは、DriverAssistant_v4.1.1.zip を使ってインストールします。
+  - それ以前のWindowsでは、[DriverAssistant_v4.1.1.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip) を使ってインストールします。
   
 ## ステップバイステップガイド
 以下、順を追ってインストール手順を説明します。
@@ -39,7 +39,7 @@ title: dev windows
   - USB Device としてCHIRIMENが自動認識される(デバイスマネージャで確認)
 - それ以外のWindows
   - デバイスマネージャにはデバイスドライバーがインストールされていないデバイスとしてほかのデバイス/CHIRIMENが現れる。
-  - [DriverAssistant_v4.1.1.zip](https://github.com/MozOpenHard/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip)をDLし解凍
+  - [DriverAssistant_v4.1.1.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/DriverAssistant_v4.1.1.zip)をDLし解凍
   - デバイスマネージャで、デバイスドライバーがインストールされていないデバイス CHIRIMENを選択し、ドライバーの更新
   - 上記解凍したフォルダ(とそのサブフォルダ)を指示するしてドライバをインストールすることで、Android Device / Android Composite ADB interfaceとして認識する
 
