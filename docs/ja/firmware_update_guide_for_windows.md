@@ -23,7 +23,8 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 ADBと異なるファームウェアアップデート用のUSBドライバが必要です。
 - AndroidTool v2.33
   - [AndroidTool_v2.33.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/AndroidTool_v2.33.zip) に入っています。
-- CHIRIMENのファームウェアイメージ（この例では、update25_win.imgというファイル）
+- CHIRIMENのファームウェアイメージ（この例では、update25_win.imgというファイル）  
+あなたは、[ここ](https://github.com/chirimen-oh/release-candidate/releases)からCHIRIMENのOSファームウェアイメージを得ることができるでしょう。
 
 ## ステップバイステップガイド
 以下、順を追ってインストール手順を説明します。
