@@ -25,7 +25,8 @@ The special USB driver only for A firmware update is required.
   - It is included in [AndroidTool_v2.33.zip](https://github.com/chirimen-oh/CHIRIMEN-tools/blob/master/AndroidTool_v2.33.zip).
 
 ### Of course, the following data is required on host PC.
-- The firmware image of CHIRIMEN (In this example of description, it assumes that it is a file called update25_win.img. )
+- The firmware image of CHIRIMEN (In this example of description, it assumes that it is a file called update25_win.img. )  
+Note: You could get OS image of CHIRIMEN [here](https://github.com/chirimen-oh/release-candidate/releases). 
 
 ## Step by step guide
 Here, an installation procedure has been explained.
