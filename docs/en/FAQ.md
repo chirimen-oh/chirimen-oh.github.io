@@ -77,8 +77,7 @@ No. CHIRIMEN Open Hardware is not a project of Mozilla Corporation or Mozilla Fo
 Mozilla Factory is the framework established as an environment for studying making ones by an open source. It was established under initiative of MJ in 2012. CHIRIMEN Open Hardware is the project currently promoted by the community in Mozilla Factory. [Please have a look here for details.](http://en.mozillafactory.org/about)
 
 ## Q. What is a CHIRIMEN Open Hardware project or community?
-さまざまなモノがコンピュータネットワークで繋がる未来の社会において、ヒトとモ ノがウェブを介して互いに協調しあえる環境を作り、“ウェブらしさ”とは何か、ウェブを介したよりよいヒト・モノの関係とは何かを考えていくプロジェクトです。  
-[詳しくはこちら](http://en.mozillafactory.org/post/10861582384/open-hardware-project)をご覧下さい:
+In the future society where various physical things are connected through computer network, this project/community will be making suggestions on the identity of the Web as well as better relationship between human and physical things over the Web.
 
 ## Q. What are the relationship between CHIRIMEN and CHIRIMEN Open Hardware and a difference? 
 CHIRIMEN is one of the development productses by a CHIRIMEN Open Hardware community. CHIRIMEN is not one carefully. The first products developed in 2015 is called design ID CMN2015-1. In the CHIRIMEN Open Hardware community, the development of the open hardware and software which used web browser technologies including CHIRIMEN as the base is carried out. Please refer to the preceding clause for the establishment aim of a CHIRIMEN Open Hardware project. 
