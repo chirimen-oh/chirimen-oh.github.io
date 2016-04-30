@@ -37,21 +37,20 @@ Yes. However, assistance in particular of a software is not expectable from a co
 ## Q. How to get a CHIRIMEN hardware? 
 Currently, the community member uses a small number of prototype for OS development. Purchase may become possible if it is mass-produced by the licensed marker based on the released source code. 
 
-しかし、その場合でもCHIRIMENのブランド名は製品名に使う事はできないので、他の名称での販売となるでしょう。それらの製品には、「Based on CHIRIMEN technology」の表示を見ることができるかもしれません。
+However, such a product has another product name from the constraint by the brand policy of CHIRIMEN. A viewing of "Based on CHIRIMEN technology" may be able to be seen for those products. 
 
-## Q. CHIRIMEN はいつ発売されるのですか
-未定です。CHIRIMEN Open Hardware コミュニティでは CHIRIMEN の作成に必要なハードウェア及びソフトウェアのソースコードを公開しますが、ハードウェアの製造販売は行いません。  
-ハードウェア(ボードコンピュータ)の製造情報はすべてオープンソース化されており、その情報を用いて製造販売おこなう企業が現れれば販売されるでしょう。ただし、CHIRIMENブランドの利用にはコミュニティの承認が必用です。  
-ただし、企業は販売時に製品名にCHIRIMENを使う事はできません。"Based on CHIRIMEN technology"の表記を使って製品を説明することが可能です。
+## Q. When is CHIRIMEN put on the market? 
+The community guarantees nothing about distribution of hardware. The CHIRIMEN Open Hardware community publishes only the source code of the hardware required for production of the CHIRIMEN, and the software by open source. However, they do not manufacture and sell hardwares. 
+It may be sold when the company which manufactures and sells using the information on that open source appears. However, "CHIRIMEN" is not used by the CHIRIMEN license policy as such a product name that a certain company sells. 
 
-## Q. CHIRIMEN はいくらで手に入るのですか
-CHIRIMENの製造販売は CHIRIMEN Open Hardwareコミュニティは行いません。よってコミュニティとして値段を明示することはできません。一方、一般的なプロトタイピング用ボードコンピュータと同等以下の価格で製造・入手できるものとして CHIRIMEN は設計されました。
+## Q. How much is CHIRIMEN? 
+A CHIRIMEN Open Hardware community does not manufacture and sell CHIRIMEN. Therefore, a community cannot specify its price. On the other hand, CHIRIMEN was designed manufacture at the same price point as the common board computer for prototypings. On the other hand, CHIRIMEN was designed so that it can manufacture at a comparable or lower price point as the common board computer for prototypings. 
 
-## Q. CHIRIMEN を製造・販売するベンダーが、Mozilla やFirefox OS に関連するロゴやワードマークを利用して宣伝することはできますか？
-できません。
+## Q. Can the vendor which manufactures and sells a CHIRIMEN base computor advertize using the logo and word mark relevant to Mozilla or Firefox OS? 
+They cannot do it without the grant from Mozilla Corporation. 
 
-## Q. ソースコードのライセンスはどのようなものですか
-CHIRIMEN Open Hardware コミュニティによるソースコードの知財管理はコミュニティに代わりMozilla Japan が行っています。著作権やライセンスは[こちらのライセンス情報](http://chirimen.org/License/)を参照ください。
+## Q. What kind of ones is the license of the source code? 
+Mozilla Japan is doing the intellectual property control of the source code as a substitute of the community. Refer to [this information](https://chirimen-oh.github.io/license/) for a copyright and a license. 
 
 ## Q. オープンソースとして公開されるソースコードには何が含まれますか
 ソースコードには、ハードウェアを製造するための設計情報と、同ハードウエア上で動作するBoot to Gecko OS ソフトウェアの両方が含まれます。
@@ -60,16 +59,16 @@ CHIRIMEN Open Hardware コミュニティによるソースコードの知財管
 回路図、プリントパターン、部品配置図、部品表などが公開されます。またそれらは再生産を容易にするために求められる電子ファイルの形式で提供されるでしょう。
 
 ## Q. CHIRIMEN のハードウェアは誰が製造できるのですか
-製造自体はだれでも自由に行うことができます。ただし、それに CHIRIMEN という名称を付けて販売するには、CHIRIMEN Open Hardware コミュニティによる承認が必要です。ただし、CHIRIMENという製品名で販売することはできません。詳しくは[こちらのライセンス情報](http://chirimen.org/License/)を参照ください。
+製造自体はだれでも自由に行うことができます。ただし、それに CHIRIMEN という名称を付けて販売するには、CHIRIMEN Open Hardware コミュニティによる承認が必要です。ただし、CHIRIMENという製品名で販売することはできません。詳しくは[こちらのライセンス情報](https://chirimen-oh.github.io/license/)を参照ください。
 
 ## Q.CHIRIMEN の販売は誰ができるのですか
-CHIRIMEN Open Hardwareコミュニティによる承認が得られた業者が販売できます。承認を得るために必要な手順や条件は[こちらのライセンス情報](http://chirimen.org/License/)に記述されています。
+CHIRIMEN Open Hardwareコミュニティによる承認が得られた業者が販売できます。承認を得るために必要な手順や条件は[こちらのライセンス情報](https://chirimen-oh.github.io/license/)に記述されています。
 
 ## Q. CHIRIMEN はどのようなライセンスで公開されますか
-ハードウェアとソフトウェア双方をカバーする[CHIRIMEN ライセンス](http://chirimen.org/License/)に基づき公開されます。ライセンスは現在法的レビュー中となっており、ソースコード公開時に同時に公開予定です。
+ハードウェアとソフトウェア双方をカバーする[CHIRIMEN ライセンス](https://chirimen-oh.github.io/license/)に基づき公開されます。ライセンスは現在法的レビュー中となっており、ソースコード公開時に同時に公開予定です。
 
 ## Q. CHIRIMEN ブランドポリシーはどこにありますか
-[CHIRIMEN ライセンス](http://chirimen.org/License/)を参照ください。
+[CHIRIMEN ライセンス](https://chirimen-oh.github.io/license/)を参照ください。
 
 ## Q. CHIRIMEN は Mozilla の製品ですか
 いいえ。CHIRIMEN は CHIRIMEN Open Hardwareコミュニティがプロトタイプとして開発している ウェブブラウザエンジンを搭載したボードコンピュータとそのソフトウェアであり、Mozilla の製品ではありません。
