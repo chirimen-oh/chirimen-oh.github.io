@@ -32,7 +32,7 @@ CHIRIMEN can utilize a cheap and general-purpose sensors and actuators with GPIO
 It was developed by the CHIRIMEN Open Hardware community. However, that community itself does not do manufacturing and selling of that. 
 
 ## Q. Can I reuse only the hardware part of CHIRIMEN? 
-Yes. However, assistance in particular of a software is not expectable from a community in that case. Moreover, "Based on CHIRIMEN technology" cannot be displayed, either. 
+Yes. However, assistance in particular of a software is not expectable from a community in that case.
 
 ## Q. How to get a CHIRIMEN hardware? 
 Currently, the community member uses a small number of prototype for OS development. Purchase may become possible if it is mass-produced by the licensed marker based on the released source code. 
@@ -52,29 +52,26 @@ They cannot do it without the grant from Mozilla Corporation.
 ## Q. What kind of ones is the license of the source code? 
 Mozilla Japan is doing the intellectual property control of the source code as a substitute of the community. Refer to [this information](https://chirimen-oh.github.io/license/) for a copyright and a license. 
 
-## Q. オープンソースとして公開されるソースコードには何が含まれますか
-ソースコードには、ハードウェアを製造するための設計情報と、同ハードウエア上で動作するBoot to Gecko OS ソフトウェアの両方が含まれます。
+## Q. What is contained in the source code released as the open source? 
+Both the design information for manufacturing a CHIRIMEN board-computer hardware and the source code of B-2G OS software for it are contained in it. 
 
-## Q. ハードウェアのソースコードとして何が提供されますか
-回路図、プリントパターン、部品配置図、部品表などが公開されます。またそれらは再生産を容易にするために求められる電子ファイルの形式で提供されるでしょう。
+## Q. What is offered as the source code of the hardware? 
+A schematic, a print pattern (Gerber data), a partses layout, a parts list, etc. may be released. And, many of them are offered in the form of the electronic filing required for reproduce easily. 
 
-## Q. CHIRIMEN のハードウェアは誰が製造できるのですか
-製造自体はだれでも自由に行うことができます。ただし、それに CHIRIMEN という名称を付けて販売するには、CHIRIMEN Open Hardware コミュニティによる承認が必要です。ただし、CHIRIMENという製品名で販売することはできません。詳しくは[こちらのライセンス情報](https://chirimen-oh.github.io/license/)を参照ください。
+## Q. Who can manufacture the hardware of CHIRIMEN? 
+Anyone can manufacture it freely based on a license. However, "CHIRIMEN" cannot be used as a product name.But, it is possible without a prior authorization to carry out advertisement named "Based on CHIRIMEN technology". Please refer to [this license informtation](https://chirimen-oh.github.io/license/) for details.
 
-## Q.CHIRIMEN の販売は誰ができるのですか
-CHIRIMEN Open Hardwareコミュニティによる承認が得られた業者が販売できます。承認を得るために必要な手順や条件は[こちらのライセンス情報](https://chirimen-oh.github.io/license/)に記述されています。
+## Q. Who can sell CHIRIMEN? 
+Anyone can sell it based on [this license](https://chirimen-oh.github.io/license/). Please also refer to the preceding chapter.
 
-## Q. CHIRIMEN はどのようなライセンスで公開されますか
-ハードウェアとソフトウェア双方をカバーする[CHIRIMEN ライセンス](https://chirimen-oh.github.io/license/)に基づき公開されます。ライセンスは現在法的レビュー中となっており、ソースコード公開時に同時に公開予定です。
+## Q. Is CHIRIMEN released by what kind of license? 
+It is released to the public by the [CHIRIMEN license](https://chirimen-oh.github.io/license/) which covers both a hardware and a software. Please refer to [this](https://chirimen-oh.github.io/license/). 
 
-## Q. CHIRIMEN ブランドポリシーはどこにありますか
-[CHIRIMEN ライセンス](https://chirimen-oh.github.io/license/)を参照ください。
+## Q. Is CHIRIMEN a product of Mozilla? 
+No, it is not a product of Mozilla. 
 
-## Q. CHIRIMEN は Mozilla の製品ですか
-いいえ。CHIRIMEN は CHIRIMEN Open Hardwareコミュニティがプロトタイプとして開発している ウェブブラウザエンジンを搭載したボードコンピュータとそのソフトウェアであり、Mozilla の製品ではありません。
-
-## Q. CHIRIMEN Open Hardware は Mozilla のプロジェクトですか
-いいえ。CHIRIMEN Open Hardware は Mozilla Corporation や Mozilla Foundation によるプロジェクトではありません。Mozilla Factoryと呼ぶ枠組みの中の CHIRIMEN Open Hardwareコミュニティによって運営されているプロジェクトです。
+## Q. Is CHIRIMEN Open Hardware a project of Mozilla? 
+No. CHIRIMEN Open Hardware is not a project of Mozilla Corporation or Mozilla Foundation. 
 
 ## Q. Mozilla Factory とは何ですか
 Mozilla Factory は Mozilla Japan が中心となってオープンソースによるモノづくりを学ぶ場所として 2012 年に立ち上げた枠組みですです。 CHIRIMEN Open Hardwareは Mozilla Factory の中のコミュニティによって進められているプロジェクトになります。   
