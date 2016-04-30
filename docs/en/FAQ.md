@@ -25,17 +25,19 @@ Boot to Gecko and Firefox OS is the same in code. After fulfilling conditions, s
 The hardware of CHIRIMEN is designed on the assumption that a web browser or comfortable operation of Boot to Gecko. Since a browser requires comparatively high graphics performance, it is mainly the feature in contrast to other board computers. 
 Therefore, SoC designed for a tablet or STB is carried. 
 
-## Q. CHIRIMEN はどのようなデバイスと組み合わせて利用できますか
-市場にたくさん出回っている、GPIO や I2C インターフェースを持ったセンサーやアクチュエータが利用できます。SPI や UART を用いるデバイスへの対応も検討されています。
+## Q. What kind of devices and peripherals can CHIRIMEN utilize? 
+CHIRIMEN can utilize a cheap and general-purpose sensors and actuators with GPIO or I2C interface. The correspondence to the device using SPI or UART is also considered. Of course, USB can be utilized as an interface for keyboards, pointing devices, and network adapters. 
 
-## Q. CHIRIMENは誰が作っているのですか
-CHIRIMEN Open Hardware コミュニティによって開発されました。しかし製造販売をコミュニティが行うわけではありません。
+## Q. Who is making CHIRIMEN? 
+It was developed by the CHIRIMEN Open Hardware community. However, that community itself does not do manufacturing and selling of that. 
 
-## Q. ハードウェア部分（CBC) だけ再利用できますか
-オペレーティングシステム・ウェブブラウザエンジンとして CHIRIMEN Open Hardware コミュニティが規定したソフトウェア（現在はBoot to Gecko）以外を使用せずにボードコンピュータを製造や利用することは可能です。ただしその場合に CHIRIMEN と呼ぶことはできません。
+## Q. Can I reuse only the hardware part of CHIRIMEN? 
+Yes. However, assistance in particular of a software is not expectable from a community in that case. Moreover, "Based on CHIRIMEN technology" cannot be displayed, either. 
 
-## Q. CHIRIMEN のハードウェア(CBC)を入手したいのですが、どうすればよいですか。
-現在は、少量の試作版をコミュニティメンバーが開発用に使っているのみになります。今後ソースコードが公開され、ライセンスを受けた製造業者によって量産された場合は、広く購入可能になると思われます。しかし、その場合でもCHIRIMENのブランド名は製品名に使う事はできないので、他の名称での販売となるでしょう。それらの製品には、「Based on CHIRIMEN technology」の表示を見ることができるかもしれません。
+## Q. How to get a CHIRIMEN hardware? 
+Currently, the community member uses a small number of prototype for OS development. Purchase may become possible if it is mass-produced by the licensed marker based on the released source code. 
+
+しかし、その場合でもCHIRIMENのブランド名は製品名に使う事はできないので、他の名称での販売となるでしょう。それらの製品には、「Based on CHIRIMEN technology」の表示を見ることができるかもしれません。
 
 ## Q. CHIRIMEN はいつ発売されるのですか
 未定です。CHIRIMEN Open Hardware コミュニティでは CHIRIMEN の作成に必要なハードウェア及びソフトウェアのソースコードを公開しますが、ハードウェアの製造販売は行いません。  
@@ -94,4 +96,5 @@ CHIRIMEN は CHIRIMEN Open Hardware コミュニティによる開発成果の�
 
 ## Q. CHIRIMEN Open Hardware communityに参加したい場合はどうしたらよいですか。
 [CHIRIMEN Open Hardware Facebook グループ](https://www.facebook.com/groups/mozopenhard/)への参加や[CHIRIMEN Open Hardware Google group](https://groups.google.com/forum/#!forum/chirimen-oh) を通してコミュニへ参加できます。
+
 
