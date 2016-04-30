@@ -4,7 +4,7 @@ title: FAQ
 ---
 # CHIRIMEN FAQ
  
-## Q. CHIRIMENとは何ですか
+## Q. What is "CHIRIMEN"?
 CHIRIMEN is a development environment that allows to control the physical devices (such as sensors and actuators) only by Web browser technology and includes hardware (board computer) and software on it.
 Their implementation includes hardware as a board computer, Web browser software (currently using Boot to Gecko), and low-level device APIs (WebGPIO and WebI2C etc.) to control physical devices by web apps or JavaScript It is developed by CHIRIMEN Open Hardware community and code-named “CHIRIMEN”.
 Their hardware and software have been released as open source.
