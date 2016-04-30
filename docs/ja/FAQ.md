@@ -25,30 +25,29 @@ Boot to Gecko と Firefox OS はコード的には同じモノです。品質や
 CHIRIMEN のハードウェアはウェブブラウザもしくはBoot to Gecko の快適な動作を前提に設計されています。ブラウザは比較的高いグラフィックス性能を要求しますので、おもにそれが他のボードコンピュータに対する特徴です。そのため、タブレットやSTBのために設計されたSoCが搭載されています。
 
 ## Q. CHIRIMEN はどのようなデバイスと組み合わせて利用できますか
-市場にたくさん出回っている、GPIO や I2C インターフェースを持ったセンサーやアクチュエータが利用できます。SPI や UART を用いるデバイスへの対応も検討されています。
+市場にたくさん出回っている、汎用のGPIO や I2C インターフェースを持ったセンサーやアクチュエータが利用できます。SPI や UART を用いるデバイスへの対応も検討されています。もちろん、USBはキーボードやポインティングデバイス、ネットワークアダプタのためのインターフェースとして利用可能です。
 
 ## Q. CHIRIMENは誰が作っているのですか
 CHIRIMEN Open Hardware コミュニティによって開発されました。しかし製造販売をコミュニティが行うわけではありません。
 
-## Q. ハードウェア部分（CBC) だけ再利用できますか
-オペレーティングシステム・ウェブブラウザエンジンとして CHIRIMEN Open Hardware コミュニティが規定したソフトウェア（現在はBoot to Gecko）以外を使用せずにボードコンピュータを製造や利用することは可能です。ただしその場合に CHIRIMEN と呼ぶことはできません。
+## Q. CHIRIMENボードコンピュータのハードウェア部分だけを再利用できますか
+オペレーティングシステム・ウェブブラウザエンジンとして CHIRIMEN Open Hardware コミュニティが規定したソフトウェア（現在はBoot to Gecko）以外を使用せずにボードコンピュータを製造や利用することは可能です。ただしコミュニティからソフトウェアのサポートを期待することはできないでしょう。
 
-## Q. CHIRIMEN のハードウェア(CBC)を入手したいのですが、どうすればよいですか。
-現在は、少量の試作版をコミュニティメンバーが開発用に使っているのみになります。今後ソースコードが公開され、ライセンスを受けた製造業者によって量産された場合は、広く購入可能になると思われます。しかし、その場合でもCHIRIMENのブランド名は製品名に使う事はできないので、他の名称での販売となるでしょう。それらの製品には、「Based on CHIRIMEN technology」の表示を見ることができるかもしれません。
+## Q. CHIRIMENボードコンピュータのハードウェアを入手したいのですが、どうすればよいですか。
+現在は、少量の試作版をコミュニティメンバーが開発用に使っているのみになります。公開されたソースコードをもとに、ライセンスを受けた製造業者によって量産された場合は、広く購入可能になると思われます。しかし、その場合でもCHIRIMENのブランド名は製品名に使う事はできないので、他の名称での販売となるでしょう。それらの製品には、「Based on CHIRIMEN technology」の表示を見ることができるかもしれません。
 
 ## Q. CHIRIMEN はいつ発売されるのですか
-未定です。CHIRIMEN Open Hardware コミュニティでは CHIRIMEN の作成に必要なハードウェア及びソフトウェアのソースコードを公開しますが、ハードウェアの製造販売は行いません。  
-ハードウェア(ボードコンピュータ)の製造情報はすべてオープンソース化されており、その情報を用いて製造販売おこなう企業が現れれば販売されるでしょう。ただし、CHIRIMENブランドの利用にはコミュニティの承認が必用です。  
-ただし、企業は販売時に製品名にCHIRIMENを使う事はできません。"Based on CHIRIMEN technology"の表記を使って製品を説明することが可能です。
+未定です。CHIRIMEN Open Hardware コミュニティでは CHIRIMEN の作成に必要なハードウェア及びソフトウェアのソースコードをオープンソースとして公開しますが、ハードウェアの製造販売は行いません。  
+ハードウェア(ボードコンピュータ)の製造情報はすべてオープンソース化されており、その情報を用いて製造販売おこなう企業が現れれば販売されるでしょう。ただし、企業は販売時に製品名に"CHIRIMEN"を使う事はできません。"Based on CHIRIMEN technology"の表記を使って製品を説明することが可能です。
 
 ## Q. CHIRIMEN はいくらで手に入るのですか
 CHIRIMENの製造販売は CHIRIMEN Open Hardwareコミュニティは行いません。よってコミュニティとして値段を明示することはできません。一方、一般的なプロトタイピング用ボードコンピュータと同等以下の価格で製造・入手できるものとして CHIRIMEN は設計されました。
 
 ## Q. CHIRIMEN を製造・販売するベンダーが、Mozilla やFirefox OS に関連するロゴやワードマークを利用して宣伝することはできますか？
-できません。
+Mozilla Corporationによる別途の承諾なしに、それを行うことはできません。
 
 ## Q. ソースコードのライセンスはどのようなものですか
-CHIRIMEN Open Hardware コミュニティによるソースコードの知財管理はコミュニティに代わりMozilla Japan が行っています。著作権やライセンスは[こちらのライセンス情報](http://chirimen.org/License/)を参照ください。
+CHIRIMEN Open Hardware コミュニティによるソースコードの知財管理はコミュニティに代わりMozilla Japan が行っています。著作権やライセンスは[こちらのライセンス情報](https://chirimen-oh.github.io/license/)を参照ください。
 
 ## Q. オープンソースとして公開されるソースコードには何が含まれますか
 ソースコードには、ハードウェアを製造するための設計情報と、同ハードウエア上で動作するBoot to Gecko OS ソフトウェアの両方が含まれます。
@@ -57,16 +56,13 @@ CHIRIMEN Open Hardware コミュニティによるソースコードの知財管
 回路図、プリントパターン、部品配置図、部品表などが公開されます。またそれらは再生産を容易にするために求められる電子ファイルの形式で提供されるでしょう。
 
 ## Q. CHIRIMEN のハードウェアは誰が製造できるのですか
-製造自体はだれでも自由に行うことができます。ただし、それに CHIRIMEN という名称を付けて販売するには、CHIRIMEN Open Hardware コミュニティによる承認が必要です。ただし、CHIRIMENという製品名で販売することはできません。詳しくは[こちらのライセンス情報](http://chirimen.org/License/)を参照ください。
+製造自体はだれでも自由に行うことができます。ただし、"CHIRIMEN"という製品名で販売することはできません。一方、"Based on CHIRIMEN technology" という説明文を使うことができます。詳しくは[こちらのライセンス情報](https://chirimen-oh.github.io/license/)を参照ください。
 
 ## Q.CHIRIMEN の販売は誰ができるのですか
-CHIRIMEN Open Hardwareコミュニティによる承認が得られた業者が販売できます。承認を得るために必要な手順や条件は[こちらのライセンス情報](http://chirimen.org/License/)に記述されています。
+[こちらのライセンス情報](https://chirimen-oh.github.io/license/)に基づいて販売することができます。前項も参照にしてください。
 
 ## Q. CHIRIMEN はどのようなライセンスで公開されますか
-ハードウェアとソフトウェア双方をカバーする[CHIRIMEN ライセンス](http://chirimen.org/License/)に基づき公開されます。ライセンスは現在法的レビュー中となっており、ソースコード公開時に同時に公開予定です。
-
-## Q. CHIRIMEN ブランドポリシーはどこにありますか
-[CHIRIMEN ライセンス](http://chirimen.org/License/)を参照ください。
+ハードウェアとソフトウェア双方をカバーする[CHIRIMEN ライセンス](https://chirimen-oh.github.io/license/)に基づき公開されます。
 
 ## Q. CHIRIMEN は Mozilla の製品ですか
 いいえ。CHIRIMEN は CHIRIMEN Open Hardwareコミュニティがプロトタイプとして開発している ウェブブラウザエンジンを搭載したボードコンピュータとそのソフトウェアであり、Mozilla の製品ではありません。
@@ -75,7 +71,7 @@ CHIRIMEN Open Hardwareコミュニティによる承認が得られた業者が�
 いいえ。CHIRIMEN Open Hardware は Mozilla Corporation や Mozilla Foundation によるプロジェクトではありません。Mozilla Factoryと呼ぶ枠組みの中の CHIRIMEN Open Hardwareコミュニティによって運営されているプロジェクトです。
 
 ## Q. Mozilla Factory とは何ですか
-Mozilla Factory は Mozilla Japan が中心となってオープンソースによるモノづくりを学ぶ場所として 2012 年に立ち上げた枠組みですです。 CHIRIMEN Open Hardwareは Mozilla Factory の中のコミュニティによって進められているプロジェクトになります。   
+Mozilla Factory は Mozilla Japan が中心となってオープンソースによるモノづくりを学ぶ場所として 2012 年に立ち上げられた枠組みです。 CHIRIMEN Open Hardwareは Mozilla Factory の中のコミュニティによって進められているプロジェクトになります。   
 [詳しくはこちらをご覧下さい](http://en.mozillafactory.org/about)
 
 ## Q. CHIRIMEN Open Hardware プロジェクト(コミュニティ） とは何ですか
@@ -83,10 +79,10 @@ Mozilla Factory は Mozilla Japan が中心となってオープンソースに�
 [詳しくはこちら](http://en.mozillafactory.org/post/10861582384/open-hardware-project)をご覧下さい:
 
 ## Q. CHIRIMEN と CHIRIMEN Open Hardware の関係、違いは何ですか
-CHIRIMEN は CHIRIMEN Open Hardware コミュニティによる開発成果の一つです。CHIRIMEN Open Hardware コミュニティではCHIRIMEN をはじめとした、Web 技術をベースとしたオープンなハードウェアとソフトウェアの開発を進めています。その最初の開発成果はがCHIRIMENと呼ばれています。CHIRIMEN Open Hardware プロジェクトの設立趣旨は前項を参照ください。
+CHIRIMEN は CHIRIMEN Open Hardware コミュニティによる開発成果の一つです。CHIRIMENは将来わたって、一つだけではないかもしれません。2015年に開発された最初の成果物はデザインID CMN2015-1と呼ばれています。CHIRIMEN Open Hardware コミュニティではCHIRIMEN をはじめとした、Web 技術をベースとしたオープンなハードウェアとソフトウェアの開発を進めています。その最初の開発成果はがCHIRIMENと呼ばれています。CHIRIMEN Open Hardware プロジェクトの設立趣旨は前項を参照ください。
 
 ## Q. CHIRIMEN Open Hardware では何をオープンにしているのですか
-ボードコンピュータを製造するために必要な情報をオープンにしています。それはハードウェアの製造に必要な情報とそこで稼働するオペレーティングシステムソフトウェアを含みます。また、ソースコードだけでなく開発や API の議論のプロセスもオープンにしています。
+CHIRIMEN Open Hardwareコミュニティが提唱するウェブブラウザベースのボードコンピュータを製造するために必要な情報をオープンソースとして公開しています。それはハードウェアの製造に必要な情報とそこで稼働するオペレーティングシステムソフトウェアを含みます。また、ソースコードだけでなく開発や API の議論のプロセスもオープンにしています。
 
 ## Q. CHIRIMEN Open Hardware コミュニティには誰が参加できるのですか
 個人だけでなく、任意の組織・団体が参加できます。
