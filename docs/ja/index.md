@@ -13,7 +13,7 @@ title: Index Page
 
 ## [FAQ](FAQ.html)
 
-## [CHIRIMENリリースダウンロード](http://github.com/chirimen-oh/release-candidate/releases/)
+## [CHIRIMENリリースダウンロード](http://github.com/chirimen-oh/release/releases/)
 
 ## [リポジトリ](http://github.com/chirimen-oh)
 
