@@ -13,7 +13,7 @@ From here, you can refer to various documents download softwares about CHIRIMEN.
 
 ## [FAQ](FAQ.html)
 
-## [Download CHIRIMEN release](http://github.com/chirimen-oh/release-candidate/releases/)
+## [Download CHIRIMEN release](http://github.com/chirimen-oh/release/releases/)
 
 ## [Repository](http://github.com/chirimen-oh)
 
