@@ -11,4 +11,4 @@ As for CHIRIMEN License, a Japanese version and an English-language edition exis
 A Japanese version license is formal. An English-language edition is that translation. 
 
 - [日本語利用規約 (Formal Japanses License)](LicenseJA.txt)
-- English License
+- [English License](LicenseEN.txt)
