@@ -90,4 +90,4 @@ CHIRIMEN Open Hardwareコミュニティが提唱するウェブブラウザベ�
 個人だけでなく、任意の組織・団体が参加できます。
 
 ## Q. CHIRIMEN Open Hardware communityに参加したい場合はどうしたらよいですか。
-[CHIRIMEN Open Hardware Facebook グループ](https://www.facebook.com/groups/mozopenhard/)への参加や[CHIRIMEN Open Hardware Google group](https://groups.google.com/forum/#!forum/chirimen-oh) を通してコミュニへ参加できます。
+[CHIRIMEN Open Hardware Facebook グループ](https://www.facebook.com/groups/chirimen/)への参加や[CHIRIMEN Open Hardware Google group](https://groups.google.com/forum/#!forum/chirimen-oh) を通してコミュニへ参加できます。
