@@ -51,6 +51,9 @@ Mozilla Corporationによる別途の承諾なしに、それを行うことは�
 ## Q. ソースコードのライセンスはどのようなものですか
 CHIRIMEN Open Hardware コミュニティによるソースコードの知財管理はコミュニティに代わりMozilla Japan が行っています。著作権やライセンスは[こちらのライセンス情報](https://chirimen-oh.github.io/license/)を参照ください。
 
+## Q. CHIRIMENはオープンソースハードウェアですか？
+[オープンソースハードウェアの定義](http://freedomdefined.org/OSHW/translations/ja)と、[CHIRIMENライセンス](https://chirimen-oh.github.io/license/)とを比較する必要があります。いくつかの違いがあるかもしれません。
+
 ## Q. オープンソースとして公開されるソースコードには何が含まれますか
 ソースコードには、ハードウェアを製造するための設計情報と、同ハードウエア上で動作するBoot to Gecko OS ソフトウェアの両方が含まれます。
 
