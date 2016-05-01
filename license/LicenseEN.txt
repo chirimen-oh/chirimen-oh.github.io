@@ -1,4 +1,4 @@
-﻿CHIRIMEN Open Hardware Terms of Use  - The first edition 
+CHIRIMEN Open Hardware Terms of Use  - The first edition 
 
 CHIRIMEN Open Hardware Terms of Use (“Terms of Use”) set forth the terms of use and other terms in connection with the public disclosure (“Project”) on the website where these Terms of Use are provided (“Website”) of, among others, software source codes and layouts and other data on hardware (collectively “Contents”) relating to “CHIRIMEN” (as defined below), which have been developed by CHIRIMEN Open Hardware Community (hereinafter, such community including all participants in such community shall be collectively referred to as “Community”) started up from the Mozilla Factory.
 
