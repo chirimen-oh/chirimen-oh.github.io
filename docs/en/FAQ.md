@@ -52,6 +52,9 @@ They cannot do it without the grant from Mozilla Corporation.
 ## Q. What kind of ones is the license of the source code? 
 Mozilla Japan is doing the intellectual property control of the source code as a substitute of the community. Refer to [this information](https://chirimen-oh.github.io/license/) for a copyright and a license. 
 
+## Q. Is CHIRIMEN Open Source Hardware?
+We should compare [the definition of OSHW](http://freedomdefined.org/OSHW) with [CHIRIMEN License](https://chirimen-oh.github.io/license/). There are many common points, but there may be some difference.
+
 ## Q. What is contained in the source code released as the open source? 
 Both the design information for manufacturing a CHIRIMEN board-computer hardware and the source code of B2G OS software for it are contained in it. 
 
