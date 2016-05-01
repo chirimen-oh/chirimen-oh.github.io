@@ -89,4 +89,4 @@ The information required in order to manufacture the board computer of the web b
 Not only an individual but arbitrary organization and party can participate. 
 
 ## Q. What should I do to participate in CHIRIMEN Open Hardware community?
-You can participate in CHIRIMEN Open Hardware community through the participate to [CHIRIMEN Open Hardware Facebook Group](https://www.facebook.com/groups/mozopenhard/), and [CHIRIMEN Open Hardware Google group](https://groups.google.com/forum/#!forum/chirimen-oh). 
+You can participate in CHIRIMEN Open Hardware community through the participate to [CHIRIMEN Open Hardware Facebook Group](https://www.facebook.com/groups/chirimen/), and [CHIRIMEN Open Hardware Google group](https://groups.google.com/forum/#!forum/chirimen-oh). 
