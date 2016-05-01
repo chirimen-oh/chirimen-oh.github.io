@@ -12,8 +12,10 @@ CHIRIMEN に関連するハードウェアととソフトウェアのソース�
 ## Q. CHIRIMEN では何ができるのですか
 CHIRIMEN では、バーチャルな画面内でのコンテンツとリアルな物理デバイスであるモノを同時に全て Webブラウザの技術だけで操作可能です。
 
-## Q. Tell me about CHIRIMEN's hardware.
-Its hardware is an embeddable board computer with interfaces such as I2C and GPIO etc., and it assumes web browsers ) currently it is Boot to Gecko (B2G) ) as a prerequisite. The "CHIRIMEN Board Computer CMN2015-1" by the CHIRIMEN Open Hardware community is the first prototype hardware for CHIRIMEN.
+## Q. CHIRIMENハードウェアについて知りたい
+CHIRIMENハードウエアは、I2CやGPIOなどのインターフェースを持つ組み込みボードコンピュータです。
+それはウェブブラウザ(現在はB2G OS)が適切に動作することを必要条件として想定しています。
+CHRIMENボードコンピュータ デザインID CMN2015-1はCHIRIMEN Open Hardwareコミュニティが試作した最初のCHIRIMENハードウェアです。
 
 ## Q. CHIRIMEN のソフトウェア部分はどうなっていますか？/ CHIRIMEN のOS は何ですか
 現在はBoot to Gecko(B2G) です。Firefox OS ではありません。現在Boot to Gecko 2.5 に対応しています。 Firefox OS ではない理由は次項を参照ください。
