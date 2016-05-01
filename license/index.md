@@ -10,5 +10,5 @@ As for CHIRIMEN License, a Japanese version and an English-language edition exis
 ライセンスは日本語版を正文とします。  
 A Japanese version license is formal. An English-language edition is that translation. 
 
-- [日本語利用規約 (Formal Japanses License)](LicenseJA.txt)
+- [日本語利用規約 (Formal License in Japanses)](LicenseJA.txt)
 - [English License](LicenseEN.txt)
