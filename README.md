@@ -1,4 +1,46 @@
-![Build Status](https://travis-ci.org/PanosSakkos/personal-jekyll-theme.svg?branch=master)
+# CHIRIMENホームページのソースコード
+
+[![Build Status](https://travis-ci.org/chirimen-oh/chirimen-oh.github.io.svg?branch=master)](https://travis-ci.org/chirimen-oh/chirimen-oh.github.io)
+
+### 初期設定
+
+#### 必要なライブラリのインストール
+
+ + ruby >= 2.1
+
+##### モジュールインストール
+
+ + mac osx / linux
+
+```sh
+scripts/install
+```
+
+ + windows
+
+```sh
+gem install jekyll jekyll-paginate wdm rouge katana github-pages compass sass jemoji html-proofer
+```
+
+### 開発
+
+```sh
+# linux / mac osx
+scripts/serve
+
+# windows
+scripts/serve.bat
+```
+
+### リリース方法
+
+ *  問題がある場合はissuesに上げてください、
+    その後実装担当者はforkもしくは別ブランチを切って修正後、プルリクエストを当リポジトリのmasterへ送ってください。
+
+ * 自分で問題を対応できる場合は、即fork後修正し、プルリクエストから開始しても問題有りません。
+
+## Original Readme Content
+
 [![Join the chat at https://gitter.im/PanosSakkos/personal-jekyll-theme](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PanosSakkos/personal-jekyll-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # { Personal } Jekyll Theme
