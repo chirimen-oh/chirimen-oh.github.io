@@ -22,7 +22,23 @@ scripts/install
 gem install jekyll jekyll-paginate wdm rouge katana github-pages compass sass jemoji html-proofer
 ```
 
-### 開発
+### ブログの書き方
+
+ + 以下のコマンドを実行すると`_post/`以下ディレクトリに本日日付でディレクトリとファイルが作成されます
+
+ + 中のmarkdownを編集する事でblogが作成されます。
+
+```sh
+# mac osx / linux
+scripts/newpost [タイトル] 
+
+# windows
+ruby scripts/newpost [タイトル]
+```
+
+### 確認の仕方
+
+ + 以下のコマンドを実行後 http://localhost:4000 にアクセスするとWebページが表示されます
 
 ```sh
 # linux / mac osx
