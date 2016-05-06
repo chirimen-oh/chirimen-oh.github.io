@@ -9,7 +9,7 @@ title: Index Page
 ### WiFi dongle
 - [Planex GW-USNano2](https://www.planex.co.jp/products/gw-usnano2a/)
 - [Realtek RTL8188cus WiFi Adaptor](http://www.ebay.com/itm/Realtek-RTL8188cus-USB-150M-150Mbps-802-11b-g-n-n-Wireless-WiFi-adapter-dongle/230973235744)
-- the others equiped with RTL8188CUS [Reference](basic_startup)
+- the others equiped with RTL8188CUS [Reference](./basic_startup.html)
 
 ### Device equiped with GPIO
 - LED (mostly workable)  - [usage example](http://fabble.cc/chirimenedu/chirimenhelloworld)

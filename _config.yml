@@ -12,7 +12,7 @@ url: "https://chirimen-oh.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: .
+baseurl: 
 
 # Google tracking id to track your visitors
 
@@ -100,7 +100,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "chirimen-oh"
 
 syntax-highlight: True
 

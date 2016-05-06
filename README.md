@@ -1,4 +1,62 @@
-![Build Status](https://travis-ci.org/PanosSakkos/personal-jekyll-theme.svg?branch=master)
+# CHIRIMENホームページのソースコード
+
+[![Build Status](https://travis-ci.org/chirimen-oh/chirimen-oh.github.io.svg?branch=master)](https://travis-ci.org/chirimen-oh/chirimen-oh.github.io)
+
+### 初期設定
+
+#### 必要なライブラリのインストール
+
+ + ruby >= 2.1
+
+##### モジュールインストール
+
+ + mac osx / linux
+
+```sh
+scripts/install
+```
+
+ + windows
+
+```sh
+gem install jekyll jekyll-paginate wdm rouge katana github-pages compass sass jemoji html-proofer
+```
+
+### ブログの書き方
+
+ + 以下のコマンドを実行すると`_post/`以下ディレクトリに本日日付でディレクトリとファイルが作成されます
+
+ + 中のmarkdownを編集する事でblogが作成されます。
+
+```sh
+# mac osx / linux
+scripts/newpost [タイトル] 
+
+# windows
+ruby scripts/newpost [タイトル]
+```
+
+### 確認の仕方
+
+ + 以下のコマンドを実行後 http://localhost:4000 にアクセスするとWebページが表示されます
+
+```sh
+# linux / mac osx
+scripts/serve
+
+# windows
+scripts/serve.bat
+```
+
+### リリース方法
+
+ *  問題がある場合はissuesに上げてください、
+    その後実装担当者はforkもしくは別ブランチを切って修正後、プルリクエストを当リポジトリのmasterへ送ってください。
+
+ * 自分で問題を対応できる場合は、即fork後修正し、プルリクエストから開始しても問題有りません。
+
+## Original Readme Content
+
 [![Join the chat at https://gitter.im/PanosSakkos/personal-jekyll-theme](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PanosSakkos/personal-jekyll-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # { Personal } Jekyll Theme
