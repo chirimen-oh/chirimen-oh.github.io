@@ -79,6 +79,12 @@ a {
 }
 
 .navbar-custom {
+
+    .header__i18n__links {
+      color: #0079FF;
+      text-transform: none;
+    }
+
     margin-bottom: 0;
     border-bottom: 1px solid rgba($font-color, 0.3);
     text-transform: uppercase;

@@ -1,6 +1,14 @@
 
 # Site settings
 
+##################
+# i18n parallel settings
+##################
+languages: ["en", "ja"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
+
 # NB! Set your site's url, otherwise stuff will break :)
 
 url: "https://chirimen-oh.github.io"
@@ -12,7 +20,7 @@ url: "https://chirimen-oh.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: 
+baseurl:
 
 # Google tracking id to track your visitors
 
@@ -55,8 +63,12 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Welcome to Open Hard ware to the world !"
-  - text: "What do you want to achieve the world with CHIRIMEN?"
+  - text:
+    ja: "オープンハードウェアの世界へようこそ！"
+    en: "Welcome to Open Hard ware to the world !"
+  - text:
+    ja: "あなたはCHIRIMENでどのような事を実現したいですか？"
+    en: "What do you want to achieve the world with CHIRIMEN?"
 
 me-img: "/img/browser_300.png"
 
@@ -186,3 +198,4 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+  - jekyll-polyglot

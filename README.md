@@ -19,7 +19,7 @@ scripts/install
  + windows
 
 ```sh
-gem install jekyll jekyll-paginate wdm rouge katana github-pages compass sass jemoji html-proofer
+gem install jekyll jekyll-paginate wdm rouge katana github-pages compass sass jemoji html-proofer jekyll-polyglot
 ```
 
 ### ブログの書き方
@@ -30,11 +30,62 @@ gem install jekyll jekyll-paginate wdm rouge katana github-pages compass sass je
 
 ```sh
 # mac osx / linux
-scripts/newpost [タイトル] 
+scripts/newpost [タイトル]
 
 # windows
 ruby scripts/newpost [タイトル]
 ```
+
+### i18n対応のやりかた
+
+jekillプラグインの[Polyglot](http://untra.github.io/polyglot/)を利用しています。
+
+
+#### 簡単な単語や１行文章の場合
+
+`_config.yml`へ利用する単語 (現時点では`en`と`ja`のみ) を追記します。
+
+
+```yml
+hello:
+  en: Hello!
+  ja: こんにちは！
+```
+
+ Liquid (Jekillテンプレート) または`markdown`で以下のように設定する事で言語の切り替えに対応します。
+
+```html
+
+<span> {{ site.hello[site.active_lang]}} </span>
+
+```
+
+#### 複数業テンプレートの切り分け
+
+ Liquid (Jekillテンプレート) または`markdown`でif分を用いて単語を切り分ける場合は次のようにします。
+
+比較的長い、または複数行の文章を他言語化するのに有用です。
+
+```html
+<p>
+  {% if site.active_lang == "ja" %}
+    ここは
+    日本語で
+    表示されます。
+  {% else %}
+    here In
+    English
+    shows.
+  {% endif %}
+</p>
+```
+
+#### その他
+
+`YAML front matter`に`lang`を追加しコンテンツごと切り分ける方法も有ります。
+
+[参考ページ](https://github.com/untra/polyglot#how-to-use-it)
+
 
 ### 確認の仕方
 

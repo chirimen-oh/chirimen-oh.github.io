@@ -133,7 +133,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
   var myQuotes =  new Array();
   {% for line in site.lines %}
-    myQuotes.push("{{ line.text }}");
+    myQuotes.push("{{ line[site.active_lang] }}");
   {% endfor %}
 
   function shuffle(array) {
