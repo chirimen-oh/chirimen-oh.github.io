@@ -20,6 +20,7 @@
           </div>
         </a>
     </div>
+
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
       <ul class="nav navbar-nav">
@@ -48,6 +49,12 @@
             </li>
           {% endfor %}
         {% endif %}
+          <!-- i18n Polyglot -->
+          <li>{% if site.active_lang == "ja" %}
+            <a class="btn btn-link btn-lg header__i18n__links" href=" {{site.baseurl}}{{page.url}} ">English</a>
+          {% else %}
+            <a class="btn btn-link btn-lg header__i18n__links" href="{{site.baseurl}}/ja{{page.url}}">日本語</a>
+          {% endif %}</li>
       </ul>
     </div>
   </div>
