@@ -1,5 +1,11 @@
 # CHIRIMENホームページのソースコード
 
+## chirimen-ohのサイトを編集する手順について
+1. issueを作る
+1. fork して pull-req  or  ブランチ して pull-req
+1. Merge する
+1. 基本的にmaster は、直接いじらない
+
 [![Build Status](https://travis-ci.org/chirimen-oh/chirimen-oh.github.io.svg?branch=master)](https://travis-ci.org/chirimen-oh/chirimen-oh.github.io)
 
 ### 初期設定
@@ -30,7 +36,7 @@ gem install jekyll jekyll-paginate wdm rouge katana github-pages compass sass je
 
 ```sh
 # mac osx / linux
-scripts/newpost [タイトル] 
+scripts/newpost [タイトル]
 
 # windows
 ruby scripts/newpost [タイトル]
