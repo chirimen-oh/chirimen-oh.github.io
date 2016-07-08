@@ -31,7 +31,31 @@ GPIO, I2C, UART, SPIなどの信号が集約されたスルーホールの多用
 MicroSDスロットです。2016年2月現在まだOSはサポートしていません。
 
 ## 多用途入出力端子のピン配置
+Note: Currently UART, SPI and PWM are re-assigned to GPIO.
 
+||CN1 (Connector1)| |CN2 (Connector2)|
+|------------|:--:|:----------:|:----------------:|
+|Number|Description (sysfs name)| |Description (sysfs name)
+|1|GND| |GND|
+|2|I2C-2 SDA| |GND|
+|3|I2C-2 SCL| |GND|
+|4|GPIO-3 D3 (gpio283)| |GND|
+|5|GPIO-3 D4 (gpio284)| |Audio L out|
+|6|ADC-0 in| |Audio R out|
+|7|GPIO-1 A4 (gpio196)| |Audio L in|
+|8|GPIO-1 A5 (gpio197)| |Audio R in|
+|9|GPIO-1 A6 (gpio198)| |Audio GND|
+|10|GPIO-1 A7 (gpio199)| |GPIO-0 A3 (gpio163)|
+|11|GPIO-1 C4 (gpio244)| |I2C-0 SCL|
+|12|GPIO-1 C3 (gpio243)| |I2C-0 SDA|
+|13|GPIO-1 C6 (gpio246)| |GPIO-0 A1 (gpio193)|
+|14|GPIO-1 C5 (gpio245)| |GPIO-0 A0 (gpio192)|
+|15|GND| |GPIO-6 A1 (gpio353)|
+|16|VCC 3.3V| |Power ON|
+|17|VCC 3.3V| |GND|
+|18|VCC 5V| |VSYS 5V|
+
+<!-- (ORIGINAL) 
 ||CN1 (Connector1)| |CN2 (Connector2)|
 |------------|:--:|:----------:|:----------------:|
 |Number|Description| |Description
@@ -53,3 +77,4 @@ MicroSDスロットです。2016年2月現在まだOSはサポートしていま
 |16|VCC 3.3V| |Power ON|
 |17|VCC 3.3V| |GND|
 |18|VCC 5V| |VSYS 5V|
+-->
