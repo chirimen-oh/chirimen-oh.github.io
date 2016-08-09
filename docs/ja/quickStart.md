@@ -13,8 +13,9 @@ noToc: true
 - [起動編](basic_startup.html)
 - 開発環境準備編
   - [Windows](dev_windows.html)
+  - Linux(Ubuntu)
   - MacOSX
-  - Linux
 - OSイメージアップデート編
   - [Windows](firmware_update_guide_for_windows.html)
-  - Linux (MacOSX)
+  - [Linux (Ubuntu)](firmware_update_guide_for_linux.html)
+  - MacOSX
