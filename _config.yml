@@ -153,6 +153,8 @@ social:
     url: "https://twitter.com/chirimen_oh"
   - title: "github"
     url: "https://github.com/chirimen-oh"
+  - title: "slack"
+    url: "https://docs.google.com/forms/d/1GzkGfCcsRn4A6-uHPsLu2LszkqKcNJ3sFI4XRishHsE/viewform"
   - title: "rss"
     url: "/feed.xml"
 
