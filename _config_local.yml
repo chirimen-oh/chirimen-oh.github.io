@@ -57,6 +57,8 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Welcome to Open Hard ware to the world !"
   - text: "What do you want to achieve the world with CHIRIMEN?"
+  - text: "CHRIMEN Board first firmware image 2016/08/08 release !!!"
+  - text: "URL is https://github.com/chirimen-oh/release/releases "
 
 me-img: "/img/browser_300.png"
 
@@ -110,10 +112,13 @@ syntax-highlight: True
 
 events:
   - image: "/img/browser_300.png"
-    date: "September 2016 - Today"
-    description: "Saving the neighborhood!"
+    date: "August 08 2016"
+    description: "Released CHRIMEN Board first firmware image !!!"
   - image: "/img/browser_300.png"
-    date: "April 28 2016"
+    date: "August 06 2016"
+    description: "Sale Of CHIRIMEN Board Started By Switch Science !!!"
+  - image: "/img/browser_300.png"
+    date: "April 30 2016"
     description: "CHIRIMEN's day"
 
 # First image of the Timeline
@@ -164,6 +169,7 @@ social:
 # Sections shown in the index page
 
 pages_list:
+  News: 'news'
   About: 'about'
   Documents/Downloads: 'documents'
   Blog: 'latest-post'
