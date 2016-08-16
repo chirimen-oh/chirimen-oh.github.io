@@ -31,6 +31,13 @@ GPIO, I2C, UART, SPIなどの信号が集約されたスルーホールの多用
 MicroSDスロットです。2016年2月現在まだOSはサポートしていません。
 
 ## 多用途入出力端子のピン配置
+多用途入出力端子のピン（CN1、CN2）の特徴
+- Through Hole
+- Pitch : 2.54mm
+- GPIO voltage : 3.3V
+
+ピンヘッダを半田付けする前のテスト用には、先端がバネになっているタイプのジャンパワイヤ（例えば[TTW-200](https://www.amazon.co.jp/%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%A4%E3%83%88-TTW-200-%E3%82%B9%E3%83%AB%E3%83%9B%E3%83%BC%E3%83%AB%E7%94%A8%E3%83%86%E3%82%B9%E3%83%88%E3%83%AF%E3%82%A4%E3%83%A4/dp/B00J7LFHVU)）がおすすめです。
+
 Note: Currently UART, SPI and PWM are re-assigned to GPIO.
 
 ||CN1 (Connector1)| |CN2 (Connector2)|
@@ -54,6 +61,7 @@ Note: Currently UART, SPI and PWM are re-assigned to GPIO.
 |16|VCC 3.3V| |Power ON|
 |17|VCC 3.3V| |GND|
 |18|VCC 5V| |VSYS 5V|
+
 
 <!-- (ORIGINAL) 
 ||CN1 (Connector1)| |CN2 (Connector2)|
