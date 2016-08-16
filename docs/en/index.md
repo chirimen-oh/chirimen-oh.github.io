@@ -5,7 +5,7 @@ title: Index Page
 
 # English Documents and Downloads
 
-From here, you can refer to various documents download softwares about CHIRIMEN. 
+From here, you can refer to various documents download softwares about CHIRIMEN. If you contribute to write documents, please refer to [How to edit chirimen.org](https://github.com/chirimen-oh/chirimen-oh.github.io).
 
 ## [License](../../license/)
 
