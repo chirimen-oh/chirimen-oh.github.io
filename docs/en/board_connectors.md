@@ -40,27 +40,53 @@ If you have not soldered any pins onto a CHIRIMEN yet, a jumper wire for Through
 
 Note: Currently UART, SPI and PWM are re-assigned to GPIO.
 
-||CN1 (Connector1)| |CN2 (Connector2)|
-|------------|:--:|:----------:|:----------------:|
-|Number|Description (sysfs name)| |Description (sysfs name)
-|1|GND| |GND|
-|2|I2C-2 SDA| |GND|
-|3|I2C-2 SCL| |GND|
-|4|GPIO-3 D3 (gpio283)| |GND|
-|5|GPIO-3 D4 (gpio284)| |Audio L out|
-|6|ADC-0 in| |Audio R out|
-|7|GPIO-1 A4 (gpio196)| |Audio L in|
-|8|GPIO-1 A5 (gpio197)| |Audio R in|
-|9|GPIO-1 A6 (gpio198)| |Audio GND|
-|10|GPIO-1 A7 (gpio199)| |GPIO-0 A3 (gpio163)|
-|11|GPIO-1 C4 (gpio244)| |I2C-0 SCL|
-|12|GPIO-1 C3 (gpio243)| |I2C-0 SDA|
-|13|GPIO-1 C6 (gpio246)| |GPIO-0 A1 (gpio193)|
-|14|GPIO-1 C5 (gpio245)| |GPIO-0 A0 (gpio192)|
-|15|GND| |GPIO-6 A1 (gpio353)|
-|16|VCC 3.3V| |Power ON|
-|17|VCC 3.3V| |GND|
-|18|VCC 5V| |VSYS 5V|
+||CN1 (Connector1)|||
+|------------|:--:|:----------------:|:----------------:|
+|Number|Description (sysfs name)|Drive|Pull up/down|
+|1|GND|N/A|N/A|
+|2|I2C-2 SDA|8mA|UP|
+|3|I2C-2 SCL|8mA|UP|
+|4|GPIO-3 D3 (gpio283)|8mA|UP|
+|5|GPIO-3 D4 (gpio284)|8mA|DOWN|
+|6|ADC-0 in|N/A|N/A|
+|7|GPIO-1 A4 (gpio196)|8mA|UP|
+|8|GPIO-1 A5 (gpio197)|8mA|DOWN|
+|9|GPIO-1 A6 (gpio198)|8mA|UP|
+|10|GPIO-1 A7 (gpio199)|8mA|UP|
+|11|GPIO-1 C4 (gpio244)|8mA|DOWN|
+|12|GPIO-1 C3 (gpio243)|4mA|DOWN|
+|13|GPIO-1 C6 (gpio246)|8mA|DOWN|
+|14|GPIO-1 C5 (gpio245)|8mA|DOWN|
+|15|GND|N/A|N/A|
+|16|VCC 3.3V|N/A|N/A|
+|17|VCC 3.3V|N/A|N/A|
+|18|VCC 5V|N/A|N/A|
+
+||CN2 (Connector2)|||
+|------------|:--:|:--:|:----------------:|
+|Number|Description (sysfs name)|Drive|Pull up/down|
+|1|GND|N/A|N/A|
+|2|GND|N/A|N/A|
+|3|GND|N/A|N/A|
+|4|GND|N/A|N/A|
+|5|Audio L out|N/A|N/A|
+|6|Audio R out|N/A|N/A|
+|7|Audio L in|N/A|N/A|
+|8|Audio R in|N/A|N/A|
+|9|Audio GND|N/A|N/A|
+|10|GPIO-0 A3 (gpio163)|8mA|DOWN|
+|11|I2C-0 SCL|8mA|UP|
+|12|I2C-0 SDA|8mA|UP|
+|13|GPIO-0 A1 (gpio193)|8mA|UP|
+|14|GPIO-0 A0 (gpio192)|8mA|DOWN|
+|15|GPIO-6 A1 (gpio353)|8mA|UP|
+|16|Power ON|N/A|N/A|
+|17|GND|N/A|N/A|
+|18|VSYS 5V|N/A|N/A|
+
+Please see also the below link.
+- [CHIRIMEN schematic](https://github.com/chirimen-oh/release/blob/master/hardware/CMN2015-1_schematic.pdf)
+- [RK3066 datasheet](http://rockchip.fr/RK3066%20datasheet%20V1.0.pdf)
 
 
 <!-- (ORIGINAL) 
