@@ -86,6 +86,7 @@ Note: Currently UART, SPI and PWM are re-assigned to GPIO.
 |18|VSYS 5V|N/A|N/A|
 
 下記のリンクも参照ください。
+
 - [CHIRIMEN schematic](https://github.com/chirimen-oh/release/blob/master/hardware/CMN2015-1_schematic.pdf)
 - [RK3066 datasheet](http://rockchip.fr/RK3066%20datasheet%20V1.0.pdf)
 
