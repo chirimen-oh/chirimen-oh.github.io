@@ -32,6 +32,7 @@ It is a MicroSD slot. It is not supported by OS as of February, 2016.
 
 ## Pinout of multiuse I/O terminals
 Multiuse I/O (CN1 and CN2) is 
+
 - Through Hole
 - Pitch : 2.54mm
 - GPIO voltage : 3.3V
@@ -85,6 +86,7 @@ Note: Currently UART, SPI and PWM are re-assigned to GPIO.
 |18|VSYS 5V|N/A|N/A|
 
 Please see also the below link.
+
 - [CHIRIMEN schematic](https://github.com/chirimen-oh/release/blob/master/hardware/CMN2015-1_schematic.pdf)
 - [RK3066 datasheet](http://rockchip.fr/RK3066%20datasheet%20V1.0.pdf)
 
