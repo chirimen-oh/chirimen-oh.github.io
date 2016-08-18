@@ -32,6 +32,7 @@ MicroSDスロットです。2016年2月現在まだOSはサポートしていま
 
 ## 多用途入出力端子のピン配置
 多用途入出力端子のピン（CN1、CN2）の特徴
+
 - Through Hole
 - Pitch : 2.54mm
 - GPIO voltage : 3.3V
