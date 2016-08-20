@@ -3,7 +3,7 @@ layout: doc_toc_ja
 title: FAQ
 ---
 # CHIRIMEN FAQ
- 
+
 ## Q. CHIRIMENとは何ですか
 CHIRIMEN はセンサーやアクチュエーターなどの物理デバイスを Webブラウザ技術だけで制御することができる開発環境で、ボードコンピュータとその上で動作するソフトウェアを含めた総称です。  
 ボードコンピュータとしてのハードウェア、その上で動作するウェブブラウザ(現在は Boot to Gecko を使用) ソフトウェア、センサーや物理デバイスを ウェブアプリ・JavaScript から制御するための WebGPIO や WebI2C といった低レベルデバイス API の実装などが含まれており、CHIRIMEN Open Hardwareコミュニティによって開発され、CHIRIMEN というコードネームがつけられました。  
@@ -81,7 +81,7 @@ Mozilla Factory は Mozilla Japan が中心となってオープンソースに�
 
 ## Q. CHIRIMEN Open Hardware プロジェクト(コミュニティ） とは何ですか
 さまざまなモノがコンピュータネットワークで繋がる未来の社会において、ヒトとモ ノがウェブを介して互いに協調しあえる環境を作り、“ウェブらしさ”とは何か、ウェブを介したよりよいヒト・モノの関係とは何かを考えていくプロジェクトです。  
-[詳しくはこちら](http://en.mozillafactory.org/post/10861582384/open-hardware-project)をご覧下さい:
+[詳しくはこちら](https://www.facebook.com/groups/chirimen/)をご覧下さい:
 
 ## Q. CHIRIMEN と CHIRIMEN Open Hardware の関係、違いは何ですか
 CHIRIMEN は CHIRIMEN Open Hardware コミュニティによる開発成果の一つです。CHIRIMENは将来わたって、一つだけではないかもしれません。2015年に開発された最初の成果物はデザインID CMN2015-1と呼ばれています。CHIRIMEN Open Hardware コミュニティではCHIRIMEN をはじめとした、Web 技術をベースとしたオープンなハードウェアとソフトウェアの開発を進めています。その最初の開発成果はがCHIRIMENと呼ばれています。CHIRIMEN Open Hardware プロジェクトの設立趣旨は前項を参照ください。
@@ -93,4 +93,4 @@ CHIRIMEN Open Hardwareコミュニティが提唱するウェブブラウザベ�
 個人だけでなく、任意の組織・団体が参加できます。
 
 ## Q. CHIRIMEN Open Hardware communityに参加したい場合はどうしたらよいですか。
-[CHIRIMEN Open Hardware Facebook グループ](https://www.facebook.com/groups/chirimen/)への参加や[CHIRIMEN Open Hardware Google group](https://groups.google.com/forum/#!forum/chirimen-oh) を通してコミュニへ参加できます。
+[CHIRIMEN Open Hardware Facebook グループ](https://www.facebook.com/groups/chirimen/)への参加や[CHIRIMEN Open Hardware slack](https://docs.google.com/forms/d/e/1FAIpQLScyfyFZbe7uZbQQzSQq78tRqtRKWXvmDRR_dO39wtzYIQFV5g/viewform) を通してコミュニへ参加できます。
