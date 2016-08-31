@@ -57,8 +57,9 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Welcome to Open Hard ware to the world !"
   - text: "What do you want to achieve the world with CHIRIMEN?"
-  - text: "CHRIMEN Board first firmware image 2016/08/08 release !!!"
-  - text: "URL is https://github.com/chirimen-oh/release/releases "
+  - text: "The Sale Memorial Day Event CHIRIMEN Board hands-on."
+  - text: "Event is September 17 2016."
+  - text: "Entry URL is http://chirimen-oh.connpass.com/event/37934/ "
 
 me-img: "/img/browser_300.png"
 
@@ -111,6 +112,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/browser_300.png"
+    date: "September 17 2016"
+    description: "The Sale Memorial Day Event CHIRIMEN Board hands-on"
   - image: "/img/browser_300.png"
     date: "August 08 2016"
     description: "Released CHRIMEN Board first firmware image !!!"
