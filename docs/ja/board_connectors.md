@@ -78,8 +78,8 @@ Note: Currently UART, SPI and PWM are re-assigned to GPIO.
 |10|GPIO-0 A3 (gpio163)|8mA|DOWN|
 |11|I2C-0 SCL|8mA|UP|
 |12|I2C-0 SDA|8mA|UP|
-|13|GPIO-0 A1 (gpio193)|8mA|UP|
-|14|GPIO-0 A0 (gpio192)|8mA|DOWN|
+|13|GPIO-1 A1 (gpio193)|8mA|DOWN|
+|14|GPIO-1 A0 (gpio192)|8mA|UP|
 |15|GPIO-6 A1 (gpio353)|8mA|UP|
 |16|Power ON|N/A|N/A|
 |17|GND|N/A|N/A|
