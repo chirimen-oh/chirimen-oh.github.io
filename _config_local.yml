@@ -57,9 +57,6 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Welcome to Open Hard ware to the world !"
   - text: "What do you want to achieve the world with CHIRIMEN?"
-  - text: "The Sale Memorial Day Event CHIRIMEN Board hands-on."
-  - text: "Event is September 17 2016."
-  - text: "Entry URL is http://chirimen-oh.connpass.com/event/37934/ "
 
 me-img: "/img/browser_300.png"
 
