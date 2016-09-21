@@ -12,15 +12,15 @@ title: Index Page
 - the others equiped with RTL8188CUS [Reference](./basic_startup.html)
 
 ### Device equiped with GPIO
-- LED (mostly workable)  - [usage example](http://fabble.cc/chirimenedu/chirimenhelloworld) - [sample source code LEDblink](https://github.com/chirimen-oh/examples/tree/master/LEDblink)
-- Push button  - [usage example](http://fabble.cc/chirimenedu/chirimenpushbutton) - [sample source code button](https://github.com/chirimen-oh/examples/tree/master/button)
+- LED (mostly workable)  - [usage example](http://fabble.cc/chirimenedu/chirimenhelloworld) - [sample source code](https://github.com/chirimen-oh/examples/tree/master/LEDblink)
+- Push button  - [usage example](http://fabble.cc/chirimenedu/chirimenpushbutton) - [sample source code](https://github.com/chirimen-oh/examples/tree/master/button)
 
 ### Device equiped with I2C
-- [PWM servo driver (PCA9685)](https://www.switch-science.com/catalog/961/) - [usage example](http://fabble.cc/chirimenedu/chirimenservo) - [sample source code i2c-PCA9685](https://github.com/chirimen-oh/examples/tree/master/i2c-PCA9685)
-- [temprature sensor (ADT7410)](http://akizukidenshi.com/catalog/g/gM-06675/) - [usage example](http://fabble.cc/chirimenedu/chirimeni2csensor) - [sample source code i2c-ADT7410](https://github.com/chirimen-oh/examples/tree/master/i2c-ADT7410)
+- [PWM servo driver (PCA9685)](https://www.switch-science.com/catalog/961/) - [usage example](http://fabble.cc/chirimenedu/chirimenservo) - [sample source code](https://github.com/chirimen-oh/examples/tree/master/i2c-PCA9685)
+- [temprature sensor (ADT7410)](http://akizukidenshi.com/catalog/g/gM-06675/) - [usage example](http://fabble.cc/chirimenedu/chirimeni2csensor) - [sample source code](https://github.com/chirimen-oh/examples/tree/master/i2c-ADT7410)
 
 ### device equiped with PWM(Pulse Width Modulation) (via PWM servo driver)
-- Servo - [usage example](http://fabble.cc/chirimenedu/chirimenservo) - [sample source code i2c-PCA9685](https://github.com/chirimen-oh/examples/tree/master/i2c-PCA9685)
+- Servo - [usage example](http://fabble.cc/chirimenedu/chirimenservo) - [sample source code](https://github.com/chirimen-oh/examples/tree/master/i2c-PCA9685)
 
 ## NOT workable for current version
 
