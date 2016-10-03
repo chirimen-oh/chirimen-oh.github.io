@@ -40,11 +40,16 @@ Currently, the community member uses a small number of prototype for OS developm
 However, such a product has another product name from the constraint by the brand policy of CHIRIMEN. A viewing of "Based on CHIRIMEN technology" may be able to be seen for those products.
 
 ## Q. When is CHIRIMEN put on the market?
+Sale has started with 2016.08.06 more than [Switch Science](https://www.switch-science.com/).  
+[Echigo Rev.1](https://www.switch-science.com/catalog/2833/)  
 The community guarantees nothing about distribution of hardware. The CHIRIMEN Open Hardware community publishes only the source code of the hardware required for production of the CHIRIMEN, and the software by open source. However, they do not manufacture and sell hardwares.
 It may be sold when the company which manufactures and sells using the information on that open source appears. However, "CHIRIMEN" is not used by the CHIRIMEN license policy as such a product name that a certain company sells.
 
 ## Q. How much is CHIRIMEN?
-A CHIRIMEN Open Hardware community does not manufacture and sell CHIRIMEN. Therefore, a community cannot specify its price. On the other hand, CHIRIMEN was designed manufacture at the same price point as the common board computer for prototypings. On the other hand, CHIRIMEN was designed so that it can manufacture at a comparable or lower price point as the common board computer for prototypings.
+It's including tax more than [Switch Science](https://www.switch-science.com/) and you're selling 5940 yen. (As of 2016.10.03)  
+[Echigo Rev.1](https://www.switch-science.com/catalog/2833/)  
+A CHIRIMEN Open Hardware community does not manufacture and sell CHIRIMEN.   
+CHIRIMEN was designed so that it can manufacture at a comparable or lower price point as the common board computer for prototypings.
 
 ## Q. Can the vendor which manufactures and sells a CHIRIMEN base computor advertize using the logo and word mark relevant to Mozilla or Firefox OS?
 They cannot do it without the grant from Mozilla Corporation.
