@@ -39,11 +39,16 @@ CHIRIMEN Open Hardware コミュニティによって開発されました。し
 現在は、少量の試作版をコミュニティメンバーが開発用に使っているのみになります。公開されたソースコードをもとに、ライセンスを受けた製造業者によって量産された場合は、広く購入可能になると思われます。しかし、その場合でもCHIRIMENのブランド名は製品名に使う事はできないので、他の名称での販売となるでしょう。それらの製品には、「Based on CHIRIMEN technology」の表示を見ることができるかもしれません。
 
 ## Q. CHIRIMEN はいつ発売されるのですか
-未定です。CHIRIMEN Open Hardware コミュニティでは CHIRIMEN の作成に必要なハードウェア及びソフトウェアのソースコードをオープンソースとして公開しますが、ハードウェアの製造販売は行いません。  
+2016.08.06に[スイッチサイエンス様](https://www.switch-science.com/)より販売が始まっています。  
+[Echigo Rev.1](https://www.switch-science.com/catalog/2833/)  
+CHIRIMEN Open Hardware コミュニティでは CHIRIMEN の作成に必要なハードウェア及びソフトウェアのソースコードをオープンソースとして公開しますが、ハードウェアの製造販売は行いません。  
 ハードウェア(ボードコンピュータ)の製造情報はすべてオープンソース化されており、その情報を用いて製造販売おこなう企業が現れれば販売されるでしょう。ただし、企業は販売時に製品名に"CHIRIMEN"を使う事はできません。"Based on CHIRIMEN technology"の表記を使って製品を説明することが可能です。
 
 ## Q. CHIRIMEN はいくらで手に入るのですか
-CHIRIMENの製造販売は CHIRIMEN Open Hardwareコミュニティは行いません。よってコミュニティとして値段を明示することはできません。一方、一般的なプロトタイピング用ボードコンピュータと同等以下の価格で製造・入手できるものとして CHIRIMEN は設計されました。
+[スイッチサイエンス様](https://www.switch-science.com/)より税込で、5,940円販売されています。（2016.10.03時点）  
+[Echigo Rev.1](https://www.switch-science.com/catalog/2833/)  
+CHIRIMENの製造販売は CHIRIMEN Open Hardwareコミュニティは行いません。  
+一般的なプロトタイピング用ボードコンピュータと同等以下の価格で製造・入手できるものとして CHIRIMEN は設計されました。
 
 ## Q. CHIRIMEN を製造・販売するベンダーが、Mozilla やFirefox OS に関連するロゴやワードマークを利用して宣伝することはできますか？
 Mozilla Corporationによる別途の承諾なしに、それを行うことはできません。
