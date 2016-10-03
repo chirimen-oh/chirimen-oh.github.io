@@ -35,7 +35,9 @@ It was developed by the CHIRIMEN Open Hardware community. However, that communit
 Yes. However, assistance in particular of a software is not expectable from a community in that case.
 
 ## Q. How to get a CHIRIMEN hardware?
-Currently, the community member uses a small number of prototype for OS development. Purchase may become possible if it is mass-produced by the licensed marker based on the released source code.
+Sale has started with 2016.08.06 more than [Switch Science](https://www.switch-science.com/).  
+[Echigo Rev.1](https://www.switch-science.com/catalog/2833/)  
+Purchase may become possible if it is mass-produced by the licensed marker based on the released source code.
 
 However, such a product has another product name from the constraint by the brand policy of CHIRIMEN. A viewing of "Based on CHIRIMEN technology" may be able to be seen for those products.
 
