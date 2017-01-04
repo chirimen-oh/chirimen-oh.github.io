@@ -110,6 +110,9 @@ syntax-highlight: True
 
 events:
   - image: "/img/browser_300.png"
+    date: "December 31 2016"
+    description: "CHIRIMEN Board had certified by the OSHA. " 
+  - image: "/img/browser_300.png"
     date: "September 17 2016"
     description: "The Sale Memorial Day Event CHIRIMEN Board hands-on"
   - image: "/img/browser_300.png"
