@@ -17,4 +17,6 @@ From here, you can refer to various documents download softwares about CHIRIMEN.
 
 ## [Repository](http://github.com/chirimen-oh)
 
-## [Peripherals for CHIRIMEN Board computer](peripherals.html)
+## [Peripherals for CHIRIMEN Board computer](https://github.com/chirimen-oh/chirimen-oh.github.io/wiki/peripherals(en))
+
+## [Parts for CHIRIMEN Board computer](https://github.com/chirimen-oh/chirimen-oh.github.io/wiki/parts(en))

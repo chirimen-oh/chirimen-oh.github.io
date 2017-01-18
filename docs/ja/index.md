@@ -17,7 +17,9 @@ title: Index Page
 
 ## [リポジトリ](http://github.com/chirimen-oh)
 
-## [CHIRIMENボードコンピュータに接続可能な周辺機器情報](peripherals.html)
+## [CHIRIMENボードコンピュータに接続可能な周辺機器情報](https://github.com/chirimen-oh/chirimen-oh.github.io/wiki/peripherals(ja))
+
+## [CHIRIMENボードコンピュータに接続可能なパーツ情報](https://github.com/chirimen-oh/chirimen-oh.github.io/wiki/parts(ja))
 
 
 
