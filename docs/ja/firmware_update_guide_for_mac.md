@@ -34,6 +34,9 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 ### 仮想環境の Ubuntu を起動します。
 ![仮想環境の Ubuntu を起動します。](../images/mac-08.png)
 ![仮想環境の Ubuntu を起動します。](../images/mac-09.png)
+### パスワード：「chirimen」と入力します。
+![パスワード：「chirimen」と入力します。](../images/mac-09.png)
+![パスワード：「chirimen」と入力します。](../images/mac-10.png)
 
 
 ## ステップバイステップガイド
