@@ -18,7 +18,7 @@ noToc: true
 - OSイメージアップデート編
   - [Windows](firmware_update_guide_for_windows.html)
   - [Linux (Ubuntu)](firmware_update_guide_for_linux.html)
-  - MacOSX
+  - [macOS](firmware_update_guide_for_mac.html)
 - 各種サンプル編
   - [Fabble - ChirimenEdu](http://fabble.cc/chirimenedu)
   - [Example](https://github.com/chirimen-oh/examples)

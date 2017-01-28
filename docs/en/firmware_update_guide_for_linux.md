@@ -35,7 +35,7 @@ This page explains an update procedure for the operating system of a CHIRIMEN bo
 Here, an installation procedure has been explained.
 
 ### Ubuntu Operation
-- Booting terminalof Ubuntu.
+- Booting terminal of Ubuntu.
 - The following procedure is performed at an end (terminal) basically.
 
 

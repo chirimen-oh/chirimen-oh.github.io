@@ -19,25 +19,34 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 
 ## Ubuntu 仮想環境構築
 ### 下記urlからUbuntu 仮想環境 vdi ファイルをダウンロードします。
-  - [Ubuntu 仮想環境 vdi ファイル](https://drive.google.com/drive/folders/0B4V6iMhRJyKObjV3bmZDZVN4d1k)
-![Ubuntu 仮想環境 vdi ファイルダウンロード](../images/mac-01.png)
-### Virtualbox 選択します。
-![Virtualbox 選択します。](../images/mac-02.png)
-### Virtualbox 起動します。
-![Virtualbox 起動します。](../images/mac-03.png)
-### Virtualbox で 仮想環境を新規作成します。
-![Virtualbox で 仮想環境を新規作成します。](../images/mac-05.png)
-### ダウンロードした vdi ファイルを選択します。
-![ダウンロードした vdi ファイルを選択します。](../images/mac-06.png)
-### 仮想環境が出来ました。
-![仮想環境が出来ました。](../images/mac-07.png)
-### 仮想環境の Ubuntu を起動します。
-![仮想環境の Ubuntu を起動します。](../images/mac-08.png)
-![仮想環境の Ubuntu を起動します。](../images/mac-09.png)
-### パスワード：「chirimen」と入力します。
-![パスワード：「chirimen」と入力します。](../images/mac-09.png)
-![パスワード：「chirimen」と入力します。](../images/mac-10.png)
 
+  - [Ubuntu 仮想環境 vdi ファイル](https://drive.google.com/drive/folders/0B4V6iMhRJyKObjV3bmZDZVN4d1k)
+
+<img src="../images/mac-01.png" width="800px">
+
+
+### Virtualbox 選択します。
+<img src="../images/mac-02.png" width="800px">
+
+### Virtualbox 起動します。
+<img src="../images/mac-03.png" width="800px">
+
+### Virtualbox で 仮想環境を新規作成します。
+<img src="../images/mac-05.png" width="800px">
+
+### ダウンロードした vdi ファイルを選択します。
+<img src="../images/mac-06.png" width="800px">
+
+### 仮想環境が出来ました。
+<img src="../images/mac-07.png" width="800px">
+
+### 仮想環境の Ubuntu を起動します。
+<img src="../images/mac-08.png" width="800px">
+
+### パスワード：「chirimen」と入力します。
+<img src="../images/mac-09.png" width="800px">
+
+<img src="../images/mac-10.png" width="800px">
 
 ## ステップバイステップガイド
 以下、順を追ってインストール手順を説明します。
