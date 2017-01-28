@@ -24,7 +24,6 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 
 <img src="../images/mac-01.png" width="800px">
 
-
 ### Virtualbox 選択します。
 <img src="../images/mac-02.png" width="800px">
 
@@ -32,6 +31,8 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 <img src="../images/mac-03.png" width="800px">
 
 ### Virtualbox で 仮想環境を新規作成します。
+<img src="../images/mac-04.png" width="800px">
+
 <img src="../images/mac-05.png" width="800px">
 
 ### ダウンロードした vdi ファイルを選択します。
