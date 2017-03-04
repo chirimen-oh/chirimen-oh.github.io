@@ -110,6 +110,9 @@ syntax-highlight: True
 
 events:
   - image: "/img/browser_300.png"
+    date: "March 1 2017"
+    description: "New firmware had released."
+  - image: "/img/browser_300.png"
     date: "February 4 2017"
     description: "CHIRIMEN touch & try events."
   - image: "/img/browser_300.png"
@@ -117,7 +120,7 @@ events:
     description: "CHIRIMEN Board Echigo Rev.1 was sold-out!"
   - image: "/img/browser_300.png"
     date: "December 31 2016"
-    description: "CHIRIMEN Board had certified by the OSHA.
+    description: "CHIRIMEN Board had certified by the OSHA."
   - image: "/img/browser_300.png"
     date: "September 17 2016"
     description: "The Sale Memorial Day Event CHIRIMEN Board hands-on"
