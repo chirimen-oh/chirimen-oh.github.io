@@ -56,13 +56,6 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 - Ubuntuの端末（terminal）を起動します。
 - 以下の手順は、基本的に端末（terminal）で行います。
 
-
-### github から CHIRIMEN-toolsリポジトリをクローンします。
-  ```
-  $ git clone https://github.com/chirimen-oh/CHIRIMEN-tools.git
-  ```
-  ![cloneコマンド](../images/linux-01.png)
-
 ### 最新イメージを取得します。
 - 下記コマンド実行します。
 
@@ -92,36 +85,49 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
   ```
   ![unzipコマンド](../images/linux-03.png)
 
-### ルールを設定します。
-- ルールファイル（51-android.rules）の作成を行います。
-  - 下記コマンド実行します。
-
-    ```
-    $ sudo vi /etc/udev/rules.d/51-android.rules
-    ```
-    ![viコマンド](../images/linux-04.png)
-- ルールファイル（51-android.rules）の編集を行います。
-  - 下記内容を入力します。
-
-    ```
-    SUBSYSTEM=="usb", ATTR{idVendor}=="2207", MODE="0666",GROUP="plugdev”
-    ```
-    ![編集内容](../images/linux-05.png)
-
-### 設定を反映をします。
-- 下記コマンド実行します。
-
-  ```
-  $ sudo udevadm control --reload
-  ```
-  ![udevadmコマンド](../images/linux-06.png)
 
 ### CHIRIMEN BoardをPCとディスプレイに接続します。
 - OTG と印字されたコネクタにUSBケーブルをPCに接続します。
 - HDMI と印字されたコネクタにHDMIケーブルをディスプレイに接続します。
 
+### CHIRIMEN Boardを通常モードで起動します。
+- 電源接続し、起動します。
+- Virtualbox の USB 設定を行います。
+  - Virtualbox VM の Menu -> Devices -> USB
+    - 画像のように [ CHIRIMEN Open Hardware chirimen ] チェックをつけてください
+  <img src="../images/mac-11.jpg" width="800px">
+  - Virtualbox VM の Menu -> Devices -> USB -> USB Setting
+  <img src="../images/mac-12.jpg" width="800px">
+  - USB デバイス 追加設定画面が表示されます。
+  - "+"アイコンをクリックします。
+  <img src="../images/mac-13.jpg" width="800px">
+  - 先程と同様にが表示されます。
+  - 画像のように [ CHIRIMEN Open Hardware chirimen ] チェックをつけてください
+  <img src="../images/mac-14.jpg" width="800px">
+  - USB デバイスが追加されると画像のようになります。
+  <img src="../images/mac-15.jpg" width="800px">
+
 ### CHIRIMEN Boardを書き込みモードで起動します。
-- Recover Mode Switchを押しながら電源接続し、起動します。
+- 電源接続を一度、抜きます。
+- Recover Mode Switchを押しながら電源接続します。
+- Recover Mode Switchを押した状態で、ゆっくり10数えます。
+- Virtualbox の USB 設定を再度行います。
+  - Virtualbox VM の Menu -> Devices -> USB
+    - 画像のように [ Unknown device 2207:300A [0100] ] チェックをつけてください
+  <img src="../images/mac-17.jpg" width="800px">
+  - Virtualbox VM の Menu -> Devices -> USB -> USB Setting
+  <img src="../images/mac-18.jpg" width="800px">
+  - USB デバイス 追加設定画面が表示されます。
+  - "+"アイコンをクリックします。
+  <img src="../images/mac-19.jpg" width="800px">
+  - 先程と同様にが表示されます。
+  - 画像のように [ Unknown device 2207:300A [0100] ] チェックをつけてください
+  <img src="../images/mac-21.jpg" width="800px">
+  - USB デバイスが追加されると画像のようになります。
+  <img src="../images/mac-22.jpg" width="800px">
+
+
+
 
 ### CHIRIMEN Boardをファーム書き込みコマンドを実行します。
 - 下記コマンド実行します。
