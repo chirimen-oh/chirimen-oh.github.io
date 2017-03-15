@@ -94,7 +94,7 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 - 電源接続し、起動します。
 - Virtualbox の USB 設定を行います。
   - Virtualbox VM の Menu -> Devices -> USB
-    - 画像のように [ CHIRIMEN Open Hardware chirimen ] チェックをつけてください
+    - 画像のように [ CHIRIMEN Open Hardware chirimen [0222] ] チェックをつけてください
   <img src="../images/mac-11.jpg" width="800px">
   - Virtualbox VM の Menu -> Devices -> USB -> USB Setting
   <img src="../images/mac-12.jpg" width="800px">
@@ -102,7 +102,7 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
   - "+"アイコンをクリックします。
   <img src="../images/mac-13.jpg" width="800px">
   - 先程と同様にが表示されます。
-  - 画像のように [ CHIRIMEN Open Hardware chirimen ] チェックをつけてください
+  - 画像のように [ CHIRIMEN Open Hardware chirimen [0222] ] チェックをつけてください
   <img src="../images/mac-14.jpg" width="800px">
   - USB デバイスが追加されると画像のようになります。
   <img src="../images/mac-15.jpg" width="800px">
