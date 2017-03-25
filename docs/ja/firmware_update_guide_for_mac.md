@@ -24,7 +24,7 @@ Virtualboxを使用します。ゲストOSは、Ubuntuです。<br />
 ### 下記urlからUbuntu 仮想環境 vdi ファイルをダウンロードします。
 
   - [Ubuntu 仮想環境 vdi ファイル](https://drive.google.com/drive/folders/0B4V6iMhRJyKObjV3bmZDZVN4d1k)
-
+  - **CHIRIMEN-tools は、このファイルに含まれています。**
 <img src="../images/mac-01.png" width="800px">
 
 ### Virtualbox 選択します。

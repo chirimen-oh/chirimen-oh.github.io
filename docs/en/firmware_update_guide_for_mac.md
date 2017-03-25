@@ -24,7 +24,7 @@ Using by Virtualbox. Guest OS is Ubuntu.<br />
 ### following url, downloading Ubuntu Virtualbox vdi file.
 
   - [Ubuntu Virtualbox vdi file](https://drive.google.com/drive/folders/0B4V6iMhRJyKObjV3bmZDZVN4d1k)
-
+  - **CHIRIMEN-tools is already included this vdi file.**
 <img src="../images/mac-01.png" width="800px">
 
 ### Virtualbox selected.
