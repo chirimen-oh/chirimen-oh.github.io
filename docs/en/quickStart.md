@@ -18,7 +18,7 @@ This page is a root of a number of quick-start guides about CMN2015-1 compatible
 - OS updating section
   - [Windows](firmware_update_guide_for_windows.html)
   - [Linux (Ubuntu)](firmware_update_guide_for_linux.html)
-  - MacOSX
+  - [macOS](firmware_update_guide_for_mac.html)
 - etc Sample section
   - [Fabble - ChirimenEdu](http://fabble.cc/chirimenedu)
   - [Example](https://github.com/chirimen-oh/examples)

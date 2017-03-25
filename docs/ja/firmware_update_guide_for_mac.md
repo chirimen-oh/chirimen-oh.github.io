@@ -5,7 +5,9 @@ title: firmware update guide for mac(Virtualbox)
 # Firmware Update Guide for mac(Virtualbox)
 
 ## 概要
-CHIRIMENボードコンピュータのオペレーティングシステムをアップデート手順を解説します。ホストPCのOSはmac(Virtualbox)です。
+CHIRIMENボードコンピュータのオペレーティングシステムをアップデート手順を解説します。<br />
+ホストPCのOSは、macOSです。<br />
+Virtualboxを使用します。ゲストOSは、Ubuntuです。
 
 ## 必要な機材
 - CHIRIMENボード本体
@@ -60,30 +62,30 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 - 下記コマンド実行します。
 
   ```
-  $ wget https://github.com/chirimen-oh/release/releases/download/CMN2015-1/CMN2015-1_B2GOS-2016XXXX.zip
+  $ wget https://github.com/chirimen-oh/release/releases/download/CMN2015-1_B2GOS-20170301/CMN2015-1_B2GOS-20170301-2.zip
   ```
 
   ```
-  ※2016XXXX：バージョン
+  ※20170301-2：バージョン
   ```
-  ![wgetコマンド](../images/linux-02.png)
+  <img src="../images/mac-26.png" width="800px">
 
 
 ### 最新イメージを解凍／展開します。
 - 下記コマンド実行します。
 
   ```
-  $ unzip CMN2015-1_B2GOS-2016XXXX.zip
+  $ unzip CMN2015-1_B2GOS-20170301-2.zip
   ```
 
   ```
-  ※解凍／展開されるとCMN2015-1_B2GOS-2016XXXX.img が作成されます。
+  ※解凍／展開されるとCMN2015-1_B2GOS-20170301-2.img が作成されます。
   ```
 
   ```
-  ※2016XXXX：バージョン
+  ※20170301-2：バージョン
   ```
-  ![unzipコマンド](../images/linux-03.png)
+  <img src="../images/mac-27.png" width="800px">
 
 
 ### CHIRIMEN BoardをPCとディスプレイに接続します。
@@ -120,7 +122,6 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
   - USB デバイス 追加設定画面が表示されます。
   <img src="../images/mac-19.jpg" width="800px">
   - "+"アイコンをクリックします。
-  - 先程と同様にが表示されます。
   - 画像のように [ Unknown device 2207:300A [0100] ] チェックをつけてください
   <img src="../images/mac-21.jpg" width="800px">
   - USB デバイスが追加されると画像のようになります。
@@ -130,17 +131,16 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 
 
 ### CHIRIMEN Boardをファーム書き込みコマンドを実行します。
-- 下記コマンド実行します。
-  - sudo 無しでも実行できますが、確実性を上げるためにsudoを用いています。
-  - 本手順では、画像の様にCHIRIMEN-toolsフォルダ内にimgファイルがあるものとして、手順を進めます。
+- sudo 無しでも実行できますが、確実性を上げるためにsudoを用いています。
+- 本手順では、画像の様にCHIRIMEN-toolsフォルダ内にimgファイルがあるものとして、手順を進めます。
 
+  <img src="../images/mac-23.png" width="800px">
+
+- 下記コマンド実行します。
   ```
   $ sudo ./Linux_Upgrade_Tool_v1.21/upgrade_tool uf CMN2015-1_B2GOS-20170301.img
   ※20170301：バージョン
   ```
-
-
-  <img src="../images/mac-23.png" width="800px">
   <img src="../images/mac-24.png" width="800px">
 
 ### CHIRIMEN Boardの再起動待ち
