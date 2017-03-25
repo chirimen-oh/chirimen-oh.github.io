@@ -118,8 +118,8 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
   - Virtualbox VM の Menu -> Devices -> USB -> USB Setting
   <img src="../images/mac-18.jpg" width="800px">
   - USB デバイス 追加設定画面が表示されます。
-  - "+"アイコンをクリックします。
   <img src="../images/mac-19.jpg" width="800px">
+  - "+"アイコンをクリックします。
   - 先程と同様にが表示されます。
   - 画像のように [ Unknown device 2207:300A [0100] ] チェックをつけてください
   <img src="../images/mac-21.jpg" width="800px">
@@ -131,20 +131,18 @@ CHIRIMENボードコンピュータのオペレーティングシステムをア
 
 ### CHIRIMEN Boardをファーム書き込みコマンドを実行します。
 - 下記コマンド実行します。
+  - sudo 無しでも実行できますが、確実性を上げるためにsudoを用いています。
+  - 本手順では、画像の様にCHIRIMEN-toolsフォルダ内にimgファイルがあるものとして、手順を進めます。
 
   ```
-  $ ./CHIRIMEN-tools/Linux_Upgrade_Tool_v1.21/upgrade_tool uf CMN2015-1_B2GOS-2016XXXX.img
+  $ sudo ./Linux_Upgrade_Tool_v1.21/upgrade_tool uf CMN2015-1_B2GOS-20170301.img
+  ※20170301：バージョン
   ```
 
-  ```
-  ※2016XXXX：バージョン
-  ```
-  ![upgrade_toolコマンド](../images/linux-07.png)
-  ![upgrade_toolコマンド](../images/linux-08.png)
-  ![upgrade_toolコマンド](../images/linux-09.png)
-  ![upgrade_toolコマンド](../images/linux-10.png)
-  ![upgrade_toolコマンド](../images/linux-11.png)
+
+  <img src="../images/mac-23.png" width="800px">
+  <img src="../images/mac-24.png" width="800px">
 
 ### CHIRIMEN Boardの再起動待ち
 - 以上でアップデート工程は完了しました。
-![upgrade_toolコマンド](../images/linux-12.png)
+  <img src="../images/mac-25.png" width="800px">
