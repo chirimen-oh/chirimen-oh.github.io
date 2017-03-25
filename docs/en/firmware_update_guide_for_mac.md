@@ -7,7 +7,7 @@ title: firmware update guide for mac(Virtualbox)
 ## Outline
 This page explains an update procedure for the operating system of a CHIRIMEN board computer.<br />
 OS of host PC is macOS.<br />
-Using by Virtualbox. Guest OS is Ubuntu.<br />
+Using by Virtualbox. Guest OS is Ubuntu 14.04.<br />
 <img src="../images/mac-28.png" width="400px">
 
 ## Required equipments

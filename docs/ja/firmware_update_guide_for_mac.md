@@ -7,7 +7,7 @@ title: firmware update guide for mac(Virtualbox)
 ## 概要
 CHIRIMENボードコンピュータのオペレーティングシステムをアップデート手順を解説します。<br />
 ホストPCのOSは、macOSです。<br />
-Virtualboxを使用します。ゲストOSは、Ubuntuです。<br />
+Virtualboxを使用します。ゲストOSは、Ubuntu 14.04です。<br />
 <img src="../images/mac-28.png" width="400px">
 
 ## 必要な機材
