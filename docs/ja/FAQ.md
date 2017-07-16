@@ -83,11 +83,11 @@ CHIRIMEN Open Hardware コミュニティによるソースコードの知財管
 いいえ。CHIRIMEN は CHIRIMEN Open Hardwareコミュニティがプロトタイプとして開発している ウェブブラウザエンジンを搭載したボードコンピュータとそのソフトウェアであり、Mozilla の製品ではありません。
 
 ## Q. CHIRIMEN Open Hardware は Mozilla のプロジェクトですか
-いいえ。CHIRIMEN Open Hardware は Mozilla Corporation や Mozilla Foundation によるプロジェクトではありません。Mozilla Factoryと呼ぶ枠組みの中の CHIRIMEN Open Hardwareコミュニティによって運営されているプロジェクトです。
+いいえ。CHIRIMEN Open Hardware は Mozilla Corporation や Mozilla Foundation によるプロジェクトではありません。WebDINO Factoryと呼ぶ枠組みの中の CHIRIMEN Open Hardwareコミュニティによって運営されているプロジェクトです。
 
-## Q. Mozilla Factory とは何ですか
-Mozilla Factory は WebDINO Japan が中心となってオープンソースによるモノづくりを学ぶ場所として 2012 年に立ち上げられた枠組みです。 CHIRIMEN Open Hardwareは Mozilla Factory の中のコミュニティによって進められているプロジェクトになります。   
-[詳しくはこちらをご覧下さい](http://en.mozillafactory.org/about)
+## Q. WebDINO Factory とは何ですか
+WebDINO Factory は WebDINO Japan が中心となってオープンソースによるモノづくりを学ぶ場所として 2012 年に立ち上げられた枠組みです。 CHIRIMEN Open Hardwareは WebDINO Factory の中のコミュニティによって進められているプロジェクトになります。   
+[詳しくはこちらをご覧下さい](http://en.webdinofactory.org/about)
 
 ## Q. CHIRIMEN Open Hardware プロジェクト(コミュニティ） とは何ですか
 さまざまなモノがコンピュータネットワークで繋がる未来の社会において、ヒトとモ ノがウェブを介して互いに協調しあえる環境を作り、“ウェブらしさ”とは何か、ウェブを介したよりよいヒト・モノの関係とは何かを考えていくプロジェクトです。  

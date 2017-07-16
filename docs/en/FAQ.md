@@ -86,8 +86,8 @@ No, it is not a product of Mozilla.
 ## Q. Is CHIRIMEN Open Hardware a project of Mozilla?
 No. CHIRIMEN Open Hardware is not a project of Mozilla Corporation or Mozilla Foundation.
 
-## Q. What is Mozilla Factory?
-Mozilla Factory is the framework established as an environment for studying making ones by an open source. It was established under initiative of MJ in 2012. CHIRIMEN Open Hardware is the project currently promoted by the community in Mozilla Factory. [Please have a look here for details.](http://en.mozillafactory.org/about)
+## Q. What is WebDINO Factory?
+WebDINO Factory is the framework established as an environment for studying making ones by an open source. It was established under initiative of MJ in 2012. CHIRIMEN Open Hardware is the project currently promoted by the community in WebDINO Factory. [Please have a look here for details.](http://en.webdinofactory.org/about)
 
 ## Q. What is a CHIRIMEN Open Hardware project or community?
 In the future society where various physical things are connected through computer network, this project/community will be making suggestions on the identity of the Web as well as better relationship between human and physical things over the Web.[Please have a look here for details.](https://www.facebook.com/groups/chirimen/)
