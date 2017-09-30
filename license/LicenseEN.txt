@@ -39,7 +39,7 @@ All data on CHIRIMEN hardware such as layouts of CHIRIMEN hardware will be publi
 
 User may not attach the brand name “CHIRIMEN” on all or part of the name of any product developed and/or manufactured by such User by using the Contents (“User’s Product”); provided, however, that User may attach the indication “Based on CHIRIMEN technology” (“Licensed CHIRIMEN Indication”) on the packages of User’s products or documents such as product advertisements, product brochures or manuals (regardless of whether such documents are provided online or offline), to the extent that such product is developed and/or manufactured by using the Contents.  If User wishes to use any indications other than the Licensed CHIRIMEN Indication, such User is required to obtain DINO’s prior written approval.  If User wishes to use the indication other than the Licensed CHIRIMEN Indication, please contact the e-mail address provided below.
 
-      E-mail address: webdinofactory@webdino.org
+      E-mail address: office@webdino.org
 
 8. Disclaimer
 
@@ -72,4 +72,4 @@ User may not attach the brand name “CHIRIMEN” on all or part of the name of 
 CHIRIMEN Open Hardware Community
 WebDINO Japan
 Adopted on April 30, 2016
-Revision on July 3, 2017
+Revision on September 26, 2017
