@@ -16,50 +16,50 @@ By downloading the Contents through this Website, User shall be deemed to have c
 
 4. Ownership in Trademark and Contents
 
-4.1. Following trademark (“Trademark”) is a registered trademark of WebDINO Japan (“DINO”):
-　　　Trademark: CHIRIMEN(“DINO”):
+4.1. Following trademark (“Trademark”) is a registered trademark of WebDINO Japan (“WebDINO”):
+　　　Trademark: CHIRIMEN(“WebDINO”):
 　　　Trademark: CHIRIMEN
 　　　Registration Number: 5821921 (Japan)
 
-4.2. Unless otherwise provided in these Terms of Use, any intellectual property rights, such as copyright (including rights under Articles 27 and 28 of Copyright Act of Japan and other rights under Copyright Act of Japan; hereinafter the same), patent right, utility model right, design right and trademark right (including the right to procure such intellectual property rights and the right to apply for registration of such intellectual property rights and to file other application relating to such intellectual property rights), and any and all other rights relating to the Trademark and Contents will be vested in DINO or any third party who granted a license to DINO.
+4.2. Unless otherwise provided in these Terms of Use, any intellectual property rights, such as copyright (including rights under Articles 27 and 28 of Copyright Act of Japan and other rights under Copyright Act of Japan; hereinafter the same), patent right, utility model right, design right and trademark right (including the right to procure such intellectual property rights and the right to apply for registration of such intellectual property rights and to file other application relating to such intellectual property rights), and any and all other rights relating to the Trademark and Contents will be vested in WebDINO or any third party who granted a license to WebDINO.
 
 4.3. User’s right to the Contents will be limited to the scope of license expressly granted under these Terms of Use.
 
 5. Software Source Code
 
-Software Source Code on CHIRIMEN will be publicly disclosed and licensed from DINO to User under MOZILLA PUBLIC LICENSE VERSION 2.0. In case of any discrepancy between any provision in MOZILLA PUBLIC LICENSE VERSION 2.0 and any provision in these Terms of Use, the provision of these Terms of Use shall prevail.
+Software Source Code on CHIRIMEN will be publicly disclosed and licensed from WebDINO to User under MOZILLA PUBLIC LICENSE VERSION 2.0. In case of any discrepancy between any provision in MOZILLA PUBLIC LICENSE VERSION 2.0 and any provision in these Terms of Use, the provision of these Terms of Use shall prevail.
 
 These Terms of Use shall govern Software Source Code on CHIRIMEN, which has been developed independently from the Project and for which the application of licenses such as GNU General Public License and Apache License (“Other License”) cannot be ruled out, to the extent that these Terms of Use do not conflict with Other Licenses.
 
 6. Data on Hardware
 
-All data on CHIRIMEN hardware such as layouts of CHIRIMEN hardware will be publicly disclosed and licensed from DINO to User under Creative Commons License BY-SA 4.0 International; provided, however, that in case of any discrepancy between any provision in Creative Commons License BY-SA 4.0 International and any provision in these Terms of Use, the provision of these Terms of Use shall prevail.
+All data on CHIRIMEN hardware such as layouts of CHIRIMEN hardware will be publicly disclosed and licensed from WebDINO to User under Creative Commons License BY-SA 4.0 International; provided, however, that in case of any discrepancy between any provision in Creative Commons License BY-SA 4.0 International and any provision in these Terms of Use, the provision of these Terms of Use shall prevail.
 
 7. Use of CHIRIMEN’s Brand Name
 
-User may not attach the brand name “CHIRIMEN” on all or part of the name of any product developed and/or manufactured by such User by using the Contents (“User’s Product”); provided, however, that User may attach the indication “Based on CHIRIMEN technology” (“Licensed CHIRIMEN Indication”) on the packages of User’s products or documents such as product advertisements, product brochures or manuals (regardless of whether such documents are provided online or offline), to the extent that such product is developed and/or manufactured by using the Contents.  If User wishes to use any indications other than the Licensed CHIRIMEN Indication, such User is required to obtain DINO’s prior written approval.  If User wishes to use the indication other than the Licensed CHIRIMEN Indication, please contact the e-mail address provided below.
+User may not attach the brand name “CHIRIMEN” on all or part of the name of any product developed and/or manufactured by such User by using the Contents (“User’s Product”); provided, however, that User may attach the indication “Based on CHIRIMEN technology” (“Licensed CHIRIMEN Indication”) on the packages of User’s products or documents such as product advertisements, product brochures or manuals (regardless of whether such documents are provided online or offline), to the extent that such product is developed and/or manufactured by using the Contents.  If User wishes to use any indications other than the Licensed CHIRIMEN Indication, such User is required to obtain WebDINO’s prior written approval.  If User wishes to use the indication other than the Licensed CHIRIMEN Indication, please contact the e-mail address provided below.
 
       E-mail address: office@webdino.org
 
 8. Disclaimer
 
-8.1. The Community and DINO make no express or implied warranty that the Website, Contents and licenses prescribed in these Terms of Use, in whole or in part, have no defects as a matter of fact and law (including, without limitation, defects on safety, reliability, accuracy, completeness, validity and conformity to specific purpose, errors and bugs, and infringement of rights).  The Community and DINO have no obligation to provide the Contents to User after removing such defects.
+8.1. The Community and WebDINO make no express or implied warranty that the Website, Contents and licenses prescribed in these Terms of Use, in whole or in part, have no defects as a matter of fact and law (including, without limitation, defects on safety, reliability, accuracy, completeness, validity and conformity to specific purpose, errors and bugs, and infringement of rights).  The Community and WebDINO have no obligation to provide the Contents to User after removing such defects.
 
-8.2. The Community and DINO will not be liable for any disputes or damages arising in connection with the User’s use of all or part of Contents or the interpretation or application of any licenses prescribed in these Terms of Use.
+8.2. The Community and WebDINO will not be liable for any disputes or damages arising in connection with the User’s use of all or part of Contents or the interpretation or application of any licenses prescribed in these Terms of Use.
 
-8.3. The Community and DINO make no warranty that the Contents will be available on the Website at all times.  The Community and DINO will not be liable for any damages to User or third party arising from the fact that the Community and DINO could not offer the Contents on the Website for any reason.
+8.3. The Community and WebDINO make no warranty that the Contents will be available on the Website at all times.  The Community and WebDINO will not be liable for any damages to User or third party arising from the fact that the Community and WebDINO could not offer the Contents on the Website for any reason.
 
-8.4. It is assumed that User in the Project will be entity or individual who will conduct research and development by using CHIRIMEN.  The Community and DINO will not be liable for any damages incurred by User in the course of conducting research and development which use all or part of Contents.
+8.4. It is assumed that User in the Project will be entity or individual who will conduct research and development by using CHIRIMEN.  The Community and WebDINO will not be liable for any damages incurred by User in the course of conducting research and development which use all or part of Contents.
 
 9. Change in Offering Method and Contents
 
-9.1. The Community and DINO are entitled to change the contents of Contents, method of offering the Contents or terms of license or to discontinue the offering of Contents or license (“Change, etc.”) at any time without providing a prior notice to User.
+9.1. The Community and WebDINO are entitled to change the contents of Contents, method of offering the Contents or terms of license or to discontinue the offering of Contents or license (“Change, etc.”) at any time without providing a prior notice to User.
 
-9.2. The Community and DINO will not be liable for any disputes or damages arising to User or third party in connection with the Change, etc.
+9.2. The Community and WebDINO will not be liable for any disputes or damages arising to User or third party in connection with the Change, etc.
 
 10. Amendment to Terms of Use
 
-10.1. The Community and DINO are entitled to amend the terms of these Terms of Use at any time without providing a prior notice to User.
+10.1. The Community and WebDINO are entitled to amend the terms of these Terms of Use at any time without providing a prior notice to User.
 
 10.2. After any amendment to these Terms of Use, User will be deemed to have given valid and irrevocable approval on the amended Terms of Use by continuing to procure or use the Contents.
 
