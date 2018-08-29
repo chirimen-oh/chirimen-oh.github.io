@@ -60,7 +60,7 @@ CHIRIMEN was designed so that it can manufacture at a comparable or lower price 
 They cannot do it without the grant from Mozilla Corporation.
 
 ## Q. What kind of ones is the license of the source code?
-Mozilla Japan is doing the intellectual property control of the source code as a substitute of the community. Refer to [this information](https://chirimen-oh.github.io/license/) for a copyright and a license.
+WebDINO Japan is doing the intellectual property control of the source code as a substitute of the community. Refer to [this information](https://chirimen-oh.github.io/license/) for a copyright and a license.
 
 ## Q. Is CHIRIMEN Open Source Hardware?
 We should compare [the definition of OSHW](http://freedomdefined.org/OSHW) with [CHIRIMEN License](https://chirimen-oh.github.io/license/). There are many common points, but there may be some difference.
@@ -86,8 +86,8 @@ No, it is not a product of Mozilla.
 ## Q. Is CHIRIMEN Open Hardware a project of Mozilla?
 No. CHIRIMEN Open Hardware is not a project of Mozilla Corporation or Mozilla Foundation.
 
-## Q. What is Mozilla Factory?
-Mozilla Factory is the framework established as an environment for studying making ones by an open source. It was established under initiative of MJ in 2012. CHIRIMEN Open Hardware is the project currently promoted by the community in Mozilla Factory. [Please have a look here for details.](http://en.mozillafactory.org/about)
+## Q. What is WebDINO Factory?
+WebDINO Factory is the framework established as an environment for studying making ones by an open source. It was established under initiative of MJ in 2012. CHIRIMEN Open Hardware is the project currently promoted by the community in WebDINO Factory. [Please have a look here for details.](http://en.webdinofactory.org/about)
 
 ## Q. What is a CHIRIMEN Open Hardware project or community?
 In the future society where various physical things are connected through computer network, this project/community will be making suggestions on the identity of the Web as well as better relationship between human and physical things over the Web.[Please have a look here for details.](https://www.facebook.com/groups/chirimen/)
