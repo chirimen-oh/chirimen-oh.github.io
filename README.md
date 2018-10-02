@@ -10,48 +10,51 @@
 
 ### 初期設定
 
-#### 必要なライブラリのインストール
+#### 必要なソフトウェアのインストール
 
- + ruby >= 2.1
+ローカルでGitHub Pagesのローカル環境を起動するのに Docker が必要になります。
+MacOSX や Windows をご利用の場合は、以下のようなソフトウェアをインストールして `docker` コマンドが利用できるようにしてください。
 
-##### モジュールインストール
-
- + mac osx / linux
-
-```sh
-scripts/install
-```
-
- + windows
-
-```sh
-gem install jekyll jekyll-paginate wdm rouge katana github-pages compass sass jemoji html-proofer
-```
+ + Docker
+   + MacOSをご利用の方: [Docker for Mac](https://docs.docker.com/docker-for-mac/)
+   + Win10をご利用の方: [Docker for Windows](https://docs.docker.com/docker-for-windows/)
+   + Windows(10以外)をご利用の方: [Docker Toolbox](https://docs.docker.com/toolbox/overview/)
 
 ### ブログの書き方
 
- + 以下のコマンドを実行すると`_post/`以下ディレクトリに本日日付でディレクトリとファイルが作成されます
-
- + 中のmarkdownを編集する事でblogが作成されます。
-
-```sh
-# mac osx / linux
-scripts/newpost [タイトル]
-
-# windows
-ruby scripts/newpost [タイトル]
-```
+公式ドキュメントの[Post を書く](http://jekyllrb-ja.github.io/docs/posts/)を参照してください。
 
 ### 確認の仕方
 
- + 以下のコマンドを実行後 http://localhost:4000 にアクセスするとWebページが表示されます
+以下のコマンドを実行後 http://localhost:4000 にアクセスするとWebページが表示されます
 
-```sh
-# linux / mac osx
-scripts/serve
+```
+$ docker run -t --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages
 
-# windows
-scripts/serve.bat
+Configuration file: /usr/src/app/_config.yml
+       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
+            Source: /usr/src/app
+       Destination: /_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+    Liquid Warning: Liquid syntax error (line 21): Expected id but found number in "{{ site.404-img }}" in /_layouts/error.html
+                    done in 2.465 seconds.
+ Auto-regeneration: enabled for '/usr/src/app'
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+```
+
+ローカルのファイルが変更されると、自動的にビルドが実行されるので、ページをリロードするだけで大丈夫です。
+
+```
+      Regenerating: 1 file(s) changed at 2018-09-05 10:43:11     Liquid Warning: Liquid syntax error (line 21): Expected id but found number in "{{ site.404-img }}" in /_layouts/error.html
+...done in 2.151323191 seconds.
+```
+
+終了するときは、`Ctrl+C` でコンソールを止めたあとで、以下のコマンドを実行してください。
+
+```
+$ docker stop $(docker ps -q --filter ancestor="starefossen/github-pages" )
 ```
 
 ### リリース方法
