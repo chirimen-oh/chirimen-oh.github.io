@@ -110,6 +110,12 @@ syntax-highlight: True
 
 events:
   - image: "/img/browser_300.png"
+    date: "October 10 2018"
+    description: "CHIRIMEN for Raspberry Pi 3 Ver.2018/10/10 released."
+  - image: "/img/browser_300.png"
+    date: "November 2 2017"
+    description: "CHIRIMEN for Raspberry Pi 3 released."
+  - image: "/img/browser_300.png"
     date: "March 1 2017"
     description: "New firmware had released."
   - image: "/img/browser_300.png"
@@ -187,6 +193,7 @@ pages_list:
   News: 'news'
   About: 'about'
   Documents/Downloads: 'documents'
+  Tutorial: 'tutorial'
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
