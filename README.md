@@ -64,6 +64,8 @@ $ docker stop $(docker ps -q --filter ancestor="starefossen/github-pages" )
 
  * 自分で問題を対応できる場合は、即fork後修正し、プルリクエストから開始しても問題有りません。
 
+
+-----
 ## Original Readme Content
 
 [![Join the chat at https://gitter.im/PanosSakkos/personal-jekyll-theme](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PanosSakkos/personal-jekyll-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
