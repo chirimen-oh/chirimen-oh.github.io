@@ -13,9 +13,9 @@ title: Index Page
 
 ## CHIRIMEN for Raspberry-Pi 3
 * [クイックスタート](https://tutorial.chirimen.org/) (CHIRIMEN for Raspberry Pi 3 チュートリアルを参照してください)
-* [CHIRIMENリリースダウンロード](https://github.com/chirimen-oh/chirimen-raspi3/releases)
-* [リポジトリ](https://github.com/chirimen-oh/chirimen-raspi3)
-* [CHIRIMENボードコンピュータに接続可能なデバイス情報](http://chirimen.org/chirimen-raspi3/gc/top/examples/)
+* [CHIRIMENリリースダウンロード](https://github.com/chirimen-oh/chirimen/releases)
+* [リポジトリ](https://github.com/chirimen-oh/chirimen)
+* [CHIRIMENボードコンピュータに接続可能なデバイス情報](http://chirimen.org/chirimen/gc/top/examples/)
 
 ## CMN2015-1
 
