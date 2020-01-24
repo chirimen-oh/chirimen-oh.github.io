@@ -12,9 +12,9 @@ From here, you can refer to various documents download softwares about CHIRIMEN.
 
 ## CHIRIMEN for Raspberry-Pi 3
 * [Quick Start Guide](https://translate.google.co.jp/translate?sl=ja&tl=en&js=y&prev=_t&hl=ja&ie=UTF-8&u=https%3A%2F%2Ftutorial.chirimen.org%2F&edit-text=&act=url) (Please refer tutorials (google translate))
-* [Download CHIRIMEN release](https://github.com/chirimen-oh/chirimen-raspi3/releases)
-* [Repository](https://github.com/chirimen-oh/chirimen-raspi3)
-* [Supported devices for CHIRIMEN RPi3](https://translate.google.co.jp/translate?sl=ja&tl=en&js=y&prev=_t&hl=ja&ie=UTF-8&u=http%3A%2F%2Fchirimen.org%2Fchirimen-raspi3%2Fgc%2Ftop%2Fexamples%2F&edit-text=&act=url) (google translate)
+* [Download CHIRIMEN release](https://github.com/chirimen-oh/chirimen/releases)
+* [Repository](https://github.com/chirimen-oh/chirimen)
+* [Supported devices for CHIRIMEN RPi3](https://translate.google.co.jp/translate?sl=ja&tl=en&js=y&prev=_t&hl=ja&ie=UTF-8&u=http%3A%2F%2Fchirimen.org%2Fchirimen%2Fgc%2Ftop%2Fexamples%2F&edit-text=&act=url) (google translate)
 
 ## CMN2015-1
 * Obtaining the Board : The production of CMN2015-1 has ended.
