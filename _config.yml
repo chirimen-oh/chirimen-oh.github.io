@@ -41,7 +41,9 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/favicon.ico"
 
-background-img: "../img/chirimen_2.gif"
+#background-img: "../img/chirimen_2.gif"
+background-img: "../img/BGJ.jpg"
+
 
 ##############################
 # Dynamic Text on the Header #
