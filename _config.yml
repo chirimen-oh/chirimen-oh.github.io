@@ -59,6 +59,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Welcome to Open Hard ware to the world !"
   - text: "What do you want to achieve the world with CHIRIMEN?"
+  - text: "CMN2015-1  Raspberry Pi  TY51822r3  micro:bit  Node.js"
 
 me-img: "/img/browser_300.png"
 
