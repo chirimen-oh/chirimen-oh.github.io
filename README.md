@@ -29,19 +29,32 @@ MacOSX や Windows をご利用の場合は、以下のようなソフトウェ�
 以下のコマンドを実行後 http://localhost:4000 にアクセスするとWebページが表示されます
 
 ```
-$ docker run -t --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages
+$ docker compose up
+WARN[0000] /Users/akihiko.kigure/work/chirimen-oh.github.io/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion
+[+] Running 1/1
+ ✔ Container chirimen-ohgithubio-jekyll-1  Created                                                                                                                                                                                                                                                                 0.0s
+Attaching to jekyll-1
+jekyll-1  | ruby 3.1.1p18 (2022-02-18 revision 53f5fc4236) [x86_64-linux-musl]
+jekyll-1  | Configuration file: /srv/jekyll/_config.yml
+jekyll-1  |        Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
+jekyll-1  |             Source: /srv/jekyll
+jekyll-1  |        Destination: /srv/jekyll/_site
+jekyll-1  |  Incremental build: disabled. Enable with --incremental
+jekyll-1  |       Generating...
+jekyll-1  |     Liquid Warning: Liquid syntax error (line 21): Expected id but found number in "{{ site.404-img }}" in /_layouts/error.html
+jekyll-1  |                     done in 1.135 seconds.
+jekyll-1  |  Auto-regeneration: enabled for '/srv/jekyll'
+jekyll-1  |     Server address: http://0.0.0.0:4000
+jekyll-1  |   Server running... press ctrl-c to stop.
+jekyll-1  |       Regenerating: 3 file(s) changed at 2025-04-26 04:48:36
+jekyll-1  |                     license/index.md
+jekyll-1  |                     license/LicenseEN.txt
+jekyll-1  |                     license/LicenseJA.txt
+jekyll-1  |     Liquid Warning: Liquid syntax error (line 21): Expected id but found number in "{{ site.404-img }}" in /_layouts/error.html
+jekyll-1  |                     ...done in 1.03426475 seconds.
+jekyll-1  |
 
-Configuration file: /usr/src/app/_config.yml
-       Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
-            Source: /usr/src/app
-       Destination: /_site
- Incremental build: disabled. Enable with --incremental
-      Generating... 
-    Liquid Warning: Liquid syntax error (line 21): Expected id but found number in "{{ site.404-img }}" in /_layouts/error.html
-                    done in 2.465 seconds.
- Auto-regeneration: enabled for '/usr/src/app'
-    Server address: http://0.0.0.0:4000
-  Server running... press ctrl-c to stop.
+v View in Docker Desktop   o View Config   w Enable Watch
 ```
 
 ローカルのファイルが変更されると、自動的にビルドが実行されるので、ページをリロードするだけで大丈夫です。
