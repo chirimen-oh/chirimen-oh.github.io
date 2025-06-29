@@ -1,10 +1,62 @@
-
 <!-- Tutorial Start -->
 
-<section id="{{ page.section-type }}" class="container content-section text-center">
+<style>
+  .tutorial-list {
+    text-align: center;
+  }
+  .tutorial-list ul {
+    text-align: left;
+    display: inline-block;
+  }
+  .tutorial-list li {
+    text-align: left;
+  }
+</style>
+
+<section
+  id="{{ page.section-type }}"
+  class="container content-section text-center"
+>
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
-      {{ page.content | markdownify }}
+      <h1>Tutorial</h1>
+      <h2>CHIRIMENのチュートリアルはこちら</h2>
+      <div class="tutorial-list">
+        <ul>
+          <li>
+            <a href="https://tutorial.chirimen.org/about"> CHIRIMEN とは </a>
+          </li>
+          <li>
+            <a href="https://tutorial.chirimen.org/">
+              チュートリアルトップページ
+            </a>
+          </li>
+          <li>
+            <a href="https://tutorial.chirimen.org/raspi/">
+              Raspberry Pi 3/4
+            </a>
+          </li>
+          <li>
+            <a href="https://tutorial.chirimen.org/pizero/">
+              Raspberry Pi Zero
+            </a>
+          </li>
+          <li>
+            <a href="https://tutorial.chirimen.org/microbit/"> micro:bit </a>
+          </li>
+          <li>
+            <a href="https://tutorial.chirimen.org/ty51822r3/"> TY51822r3 </a>
+          </li>
+          <li>
+            <a href="https://tutorial.chirimen.org/partslist">
+              対応デバイスリスト
+            </a>
+          </li>
+          <li>
+            <a href="https://tutorial.chirimen.org/reference"> 資料集 </a>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </section>
