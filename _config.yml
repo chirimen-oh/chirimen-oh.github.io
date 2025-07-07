@@ -41,8 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/favicon.ico"
 
-#background-img: "../img/chirimen_2.gif"
-background-img: "../img/BGJ.jpg"
+background-img: "../img/CHIRIMEN_table_cloth.jpg"
 
 
 ##############################
@@ -111,37 +110,37 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:
-  - image: "/img/browser_300.png"
-    date: "October 10 2018"
-    description: "CHIRIMEN for Raspberry Pi 3 Ver.2018/10/10 released."
-  - image: "/img/browser_300.png"
-    date: "November 2 2017"
-    description: "CHIRIMEN for Raspberry Pi 3 released."
-  - image: "/img/browser_300.png"
-    date: "March 1 2017"
-    description: "New firmware had released."
-  - image: "/img/browser_300.png"
-    date: "February 4 2017"
-    description: "CHIRIMEN touch & try events."
-  - image: "/img/browser_300.png"
-    date: "January 9 2017"
-    description: "CHIRIMEN Board Echigo Rev.1 was sold-out!"
-  - image: "/img/browser_300.png"
-    date: "December 31 2016"
-    description: "CHIRIMEN Board had certified by the OSHA. "
-  - image: "/img/browser_300.png"
-    date: "September 17 2016"
-    description: "The Sale Memorial Day Event CHIRIMEN Board hands-on"
-  - image: "/img/browser_300.png"
-    date: "August 08 2016"
-    description: "Released CHRIMEN Board first firmware image !!!"
-  - image: "/img/browser_300.png"
-    date: "August 06 2016"
-    description: "Sale Of CHIRIMEN Board Started By Switch Science !!!"
-  - image: "/img/browser_300.png"
-    date: "April 30 2016"
-    description: "CHIRIMEN's day"
+# events:
+#   - image: "/img/browser_300.png"
+#     date: "October 10 2018"
+#     description: "CHIRIMEN for Raspberry Pi 3 Ver.2018/10/10 released."
+#   - image: "/img/browser_300.png"
+#     date: "November 2 2017"
+#     description: "CHIRIMEN for Raspberry Pi 3 released."
+#   - image: "/img/browser_300.png"
+#     date: "March 1 2017"
+#     description: "New firmware had released."
+#   - image: "/img/browser_300.png"
+#     date: "February 4 2017"
+#     description: "CHIRIMEN touch & try events."
+#   - image: "/img/browser_300.png"
+#     date: "January 9 2017"
+#     description: "CHIRIMEN Board Echigo Rev.1 was sold-out!"
+#   - image: "/img/browser_300.png"
+#     date: "December 31 2016"
+#     description: "CHIRIMEN Board had certified by the OSHA. "
+#   - image: "/img/browser_300.png"
+#     date: "September 17 2016"
+#     description: "The Sale Memorial Day Event CHIRIMEN Board hands-on"
+#   - image: "/img/browser_300.png"
+#     date: "August 08 2016"
+#     description: "Released CHRIMEN Board first firmware image !!!"
+#   - image: "/img/browser_300.png"
+#     date: "August 06 2016"
+#     description: "Sale Of CHIRIMEN Board Started By Switch Science !!!"
+#   - image: "/img/browser_300.png"
+#     date: "April 30 2016"
+#     description: "CHIRIMEN's day"
 
 # First image of the Timeline
 
@@ -171,14 +170,12 @@ author_blurb_image: "/img/browser_300.png"
 social:
   - title: "facebook"
     url: "https://www.facebook.com/groups/chirimen/"
-  - title: "twitter"
-    url: "https://twitter.com/chirimen_oh"
+  # - title: "twitter"
+  #   url: "https://twitter.com/chirimen_oh"
   - title: "github"
     url: "https://github.com/chirimen-oh"
   - title: "slack"
     url: "https://docs.google.com/forms/d/1GzkGfCcsRn4A6-uHPsLu2LszkqKcNJ3sFI4XRishHsE/viewform"
-  - title: "rss"
-    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -193,13 +190,14 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  News: 'news'
-  About: 'about'
-  Documents/Downloads: 'documents'
+  # News: 'news'
+  # About: 'about'
+  # Documents/Downloads: 'documents'
   Tutorial: 'tutorial'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  # Blog: 'latest-post'
+  # Timeline: 'timeline'
+  # Contact: 'contact'
+  X Time Line: 'twitter-timeline'
 
 # Exclusion list from the generated _site
 
