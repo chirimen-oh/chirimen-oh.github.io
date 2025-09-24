@@ -1,4 +1,7 @@
-# CHIRIMENホームページのソースコード
+> [!WARNING]
+> 現在メンテナンスされていません。 2025-09-22 以降、https://chirimen.org のサイトは [chirimen-oh/chirimen.org](https://github.com/chirimen-oh/chirimen.org) リポジトリにて開発を続けられています。
+
+# CHIRIMENホームページのソースコード (旧)
 
 ## chirimen-ohのサイトを編集する手順について
 1. issueを作る
